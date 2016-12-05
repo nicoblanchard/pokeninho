@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="fr" ng-app="pokeninho">
+<head>
+	<meta charset="utf-8" />
+	<link rel="stylesheet" type="text/css" href="web/css/index.css">
+	<title>Pokéninho</title>        
+<!-- 	<link rel="stylesheet" href="web/css/style.css"> -->
+	<script src="js/vendor/angular.js"></script>
+	<script src="js/pokemon.js"></script>
+
+</head>
+<body>
+	<header>
+		<h1 class="test"></h1>
+	</header>
+
+	<!-- Liste complète du pokemon -->
+	<section>
+		<div id="pokeList" ng-controller="listPokemon">
+			<div id="{{pokemon.pok_id}}" ng-repeat="pokemon in pokemons" class="ct gh" >
+				<div details ng-style="{'background-position': getSpriteStyle(pokemon.pok_id)}" ng-class="getCorrectBackgroundImage(pokemon.pok_id)" ng-click="setpokId(pokemon.pok_id);"></div>
+				<div class="bottom">{{pokemon.pok_code}} {{pokemon.pok_namefr}}</div>
+				
+				<!--<div>{{pokemon.LvlUp}}</div>-->
+			</div>
+		</div>
+	</section>
+
+	<!-- Détails du pokémon sélectionné -->
+	<section>
+ 		<div id="pokemonDetailsDiv" ng-controller="detailsPok" style="display:none">
+<!-- 		<div id="pokemonDetailsDiv" ng-controller="detailsPok">-->
+ 			<div class="detailsMenu">
+				<a href="javascript:closePokemonDetailsDiv();">
+					<img src="images/close.png" alt="Quitter">
+				</a>
+				<a ng-href="http://www.serebii.net/pokedex-sm/{{pokemonDetails.pok_id}}.shtml" target="_blank">
+					<img src="images/serebii.png" alt="Fiche serebii">
+				</a>
+				<a href="http://www.pokebip.com/pokemon/pokedex/index.php?phppage=recherche&amp;submit=Go+!&amp;req=%23746" target="_blank">
+					<img src="images/pokebip.png" alt="Fiche pokebip">
+				</a>
+			</div>
+
+
+			<div style="float:left;height:96px;width:96px;" >
+				<img ng-src="{{url}}" />
+			</div>
+
+			<div style="float:left;height:96px;width:200px;">
+				<span style="font-size:18px;font-weight:bold;" >{{nameEnu}}</span>
+				<table>
+					<tbody>
+						<tr>
+							<td ng-repeat="typePok in pokTypes" style="margin-left:40px;" ng-attr-id="type{{$index+1}}" class="type type{{getTypeId(typePok.type.url)}}"  >
+								{{getType(typePok.type.name)}}
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+
+
+			<div>
+			<table id="pokemonStatsDiv">
+				<tbody>
+					<tr>
+						<th>PV</th>
+						<th>Atq</th>
+						<th>Def</th>
+						<th>Atq spé</th>
+						<th>Def Spé</th>
+						<th>Vit</th>
+						<th>Total</th>
+					</tr>
+					<tr>
+						<td ng-repeat="pokemonStat in pokemonStats">
+							{{pokemonStat.base_stat}}
+						</td>
+						<td>Total</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</section>
+			
+
+
+
+
+	<script type="text/javascript">
+		/*globals $, location*/
+		function closePokemonDetailsDiv() {
+			document.getElementById("pokemonDetailsDiv").style.display = "none";
+		}
+		function showDiv(){
+			document.getElementById("pokemonDetailsDiv").style.display = "block";
+		}
+</script>
+</body>
+</html>

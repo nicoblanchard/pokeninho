@@ -1,0 +1,6421 @@
+{
+    "count": 802,
+    "results": [
+        {
+            "pok_id": 1,
+            "pok_code": "001",
+            "pok_namefr": "Bulbizarre",
+            "pok_level_up": "16",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 2,
+            "pok_code": "002",
+            "pok_namefr": "Herbizarre",
+            "pok_level_up": "32",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 3,
+            "pok_code": "003",
+            "pok_namefr": "Florizarre",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 4,
+            "pok_code": "004",
+            "pok_namefr": "Salamèche",
+            "pok_level_up": "16",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 5,
+            "pok_code": "005",
+            "pok_namefr": "Reptincel",
+            "pok_level_up": "36",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 6,
+            "pok_code": "006",
+            "pok_namefr": "Dracaufeu",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 7,
+            "pok_code": "007",
+            "pok_namefr": "Carapuce",
+            "pok_level_up": "16",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 8,
+            "pok_code": "008",
+            "pok_namefr": "Carabaffe",
+            "pok_level_up": "36",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 9,
+            "pok_code": "009",
+            "pok_namefr": "Tortank",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 10,
+            "pok_code": "010",
+            "pok_namefr": "Chenipan",
+            "pok_level_up": "7",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 11,
+            "pok_code": "011",
+            "pok_namefr": "Chrysacier",
+            "pok_level_up": "10",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 12,
+            "pok_code": "012",
+            "pok_namefr": "Papilusion",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 13,
+            "pok_code": "013",
+            "pok_namefr": "Aspicot",
+            "pok_level_up": "7",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 14,
+            "pok_code": "014",
+            "pok_namefr": "Coconfort",
+            "pok_level_up": "10",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 15,
+            "pok_code": "015",
+            "pok_namefr": "Dardargnan",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 16,
+            "pok_code": "016",
+            "pok_namefr": "Roucool",
+            "pok_level_up": "18",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 17,
+            "pok_code": "017",
+            "pok_namefr": "Roucoups",
+            "pok_level_up": "32",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 18,
+            "pok_code": "018",
+            "pok_namefr": "Roucarnage",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 19,
+            "pok_code": "019",
+            "pok_namefr": "Rattata",
+            "pok_level_up": "20",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 20,
+            "pok_code": "020",
+            "pok_namefr": "Rattatac",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 21,
+            "pok_code": "021",
+            "pok_namefr": "Piafabec",
+            "pok_level_up": "20",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 22,
+            "pok_code": "022",
+            "pok_namefr": "Rapasdepic",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 23,
+            "pok_code": "023",
+            "pok_namefr": "Abo",
+            "pok_level_up": "22",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 24,
+            "pok_code": "024",
+            "pok_namefr": "Arbok",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 25,
+            "pok_code": "025",
+            "pok_namefr": "Pikachu",
+            "pok_level_up": "ts",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 26,
+            "pok_code": "026",
+            "pok_namefr": "Raichu",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 27,
+            "pok_code": "027",
+            "pok_namefr": "Sabelette",
+            "pok_level_up": "22",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 28,
+            "pok_code": "028",
+            "pok_namefr": "Sablaireau",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 29,
+            "pok_code": "029",
+            "pok_namefr": "Nidoran",
+            "pok_level_up": "16",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 30,
+            "pok_code": "030",
+            "pok_namefr": "Nidorina",
+            "pok_level_up": "ms",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 31,
+            "pok_code": "031",
+            "pok_namefr": "Nidoqueen",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 32,
+            "pok_code": "032",
+            "pok_namefr": "Nidoran",
+            "pok_level_up": "16",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 33,
+            "pok_code": "033",
+            "pok_namefr": "Nidorino",
+            "pok_level_up": "ms",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 34,
+            "pok_code": "034",
+            "pok_namefr": "Nidoking",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 35,
+            "pok_code": "035",
+            "pok_namefr": "Mélofée",
+            "pok_level_up": "ms",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 36,
+            "pok_code": "036",
+            "pok_namefr": "Mélodelfe",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 37,
+            "pok_code": "037",
+            "pok_namefr": "Goupix",
+            "pok_level_up": "fs",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 38,
+            "pok_code": "038",
+            "pok_namefr": "Feunard",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 39,
+            "pok_code": "039",
+            "pok_namefr": "Rondoudou",
+            "pok_level_up": "ms",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 40,
+            "pok_code": "040",
+            "pok_namefr": "Grodoudou",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 41,
+            "pok_code": "041",
+            "pok_namefr": "Nosférapti",
+            "pok_level_up": "22",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 42,
+            "pok_code": "042",
+            "pok_namefr": "Nosféralto",
+            "pok_level_up": "lv",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 43,
+            "pok_code": "043",
+            "pok_namefr": "Mystherbe",
+            "pok_level_up": "21",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 44,
+            "pok_code": "044",
+            "pok_namefr": "Ortide",
+            "pok_level_up": "ls",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 45,
+            "pok_code": "045",
+            "pok_namefr": "Rafflésia",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 46,
+            "pok_code": "046",
+            "pok_namefr": "Paras",
+            "pok_level_up": "24",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 47,
+            "pok_code": "047",
+            "pok_namefr": "Parasect",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 48,
+            "pok_code": "048",
+            "pok_namefr": "Mimitoss",
+            "pok_level_up": "21",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 49,
+            "pok_code": "049",
+            "pok_namefr": "Aéromite",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 50,
+            "pok_code": "050",
+            "pok_namefr": "Taupiqueur",
+            "pok_level_up": "26",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 51,
+            "pok_code": "051",
+            "pok_namefr": "Triopikeur",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 52,
+            "pok_code": "052",
+            "pok_namefr": "Miaouss",
+            "pok_level_up": "28",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 53,
+            "pok_code": "053",
+            "pok_namefr": "Persian",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 54,
+            "pok_code": "054",
+            "pok_namefr": "Psykokwak",
+            "pok_level_up": "33",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 55,
+            "pok_code": "055",
+            "pok_namefr": "Akwakwak",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 56,
+            "pok_code": "056",
+            "pok_namefr": "Férosinge",
+            "pok_level_up": "28",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 57,
+            "pok_code": "057",
+            "pok_namefr": "Colossinge",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 58,
+            "pok_code": "058",
+            "pok_namefr": "Caninos",
+            "pok_level_up": "fs",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 59,
+            "pok_code": "059",
+            "pok_namefr": "Arcanin",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 60,
+            "pok_code": "060",
+            "pok_namefr": "Ptitard",
+            "pok_level_up": "25",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 61,
+            "pok_code": "061",
+            "pok_namefr": "Tétarte",
+            "pok_level_up": "ws",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 62,
+            "pok_code": "062",
+            "pok_namefr": "Tartard",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 63,
+            "pok_code": "063",
+            "pok_namefr": "Abra",
+            "pok_level_up": "16",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 64,
+            "pok_code": "064",
+            "pok_namefr": "Kadabra",
+            "pok_level_up": "tr",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 65,
+            "pok_code": "065",
+            "pok_namefr": "Alakazam",
+            "pok_level_up": "mg",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 66,
+            "pok_code": "066",
+            "pok_namefr": "Machoc",
+            "pok_level_up": "28",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 67,
+            "pok_code": "067",
+            "pok_namefr": "Machopeur",
+            "pok_level_up": "tr",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 68,
+            "pok_code": "068",
+            "pok_namefr": "Mackogneur",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 69,
+            "pok_code": "069",
+            "pok_namefr": "Chétiflor",
+            "pok_level_up": "21",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 70,
+            "pok_code": "070",
+            "pok_namefr": "Boustiflor",
+            "pok_level_up": "ls",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 71,
+            "pok_code": "071",
+            "pok_namefr": "Empiflor",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 72,
+            "pok_code": "072",
+            "pok_namefr": "Tentacool",
+            "pok_level_up": "30",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 73,
+            "pok_code": "073",
+            "pok_namefr": "Tentacruel",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 74,
+            "pok_code": "074",
+            "pok_namefr": "Racaillou",
+            "pok_level_up": "25",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 75,
+            "pok_code": "075",
+            "pok_namefr": "Gravalanch",
+            "pok_level_up": "tr",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 76,
+            "pok_code": "076",
+            "pok_namefr": "Grolem",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 77,
+            "pok_code": "077",
+            "pok_namefr": "Ponyta",
+            "pok_level_up": "40",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 78,
+            "pok_code": "078",
+            "pok_namefr": "Galopa",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 79,
+            "pok_code": "079",
+            "pok_namefr": "Ramoloss",
+            "pok_level_up": "37",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 80,
+            "pok_code": "080",
+            "pok_namefr": "Flagadoss",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 81,
+            "pok_code": "081",
+            "pok_namefr": "Magnéti",
+            "pok_level_up": "30",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 82,
+            "pok_code": "082",
+            "pok_namefr": "Magnéton",
+            "pok_level_up": "lvl",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 83,
+            "pok_code": "083",
+            "pok_namefr": "Canarticho",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 84,
+            "pok_code": "084",
+            "pok_namefr": "Doduo",
+            "pok_level_up": "31",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 85,
+            "pok_code": "085",
+            "pok_namefr": "Dodrio",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 86,
+            "pok_code": "086",
+            "pok_namefr": "Otaria",
+            "pok_level_up": "34",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 87,
+            "pok_code": "087",
+            "pok_namefr": "Lamantine",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 88,
+            "pok_code": "088",
+            "pok_namefr": "Tadmorv",
+            "pok_level_up": "38",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 89,
+            "pok_code": "089",
+            "pok_namefr": "Grotadmorv",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 90,
+            "pok_code": "090",
+            "pok_namefr": "Kokiyas",
+            "pok_level_up": "ws",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 91,
+            "pok_code": "091",
+            "pok_namefr": "Crustabri",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 92,
+            "pok_code": "092",
+            "pok_namefr": "Fantominus",
+            "pok_level_up": "25",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 93,
+            "pok_code": "093",
+            "pok_namefr": "Spectrum",
+            "pok_level_up": "tr",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 94,
+            "pok_code": "094",
+            "pok_namefr": "Ectoplasma",
+            "pok_level_up": "mg",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 95,
+            "pok_code": "095",
+            "pok_namefr": "Onix",
+            "pok_level_up": "tr",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 96,
+            "pok_code": "096",
+            "pok_namefr": "Soporifik",
+            "pok_level_up": "26",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 97,
+            "pok_code": "097",
+            "pok_namefr": "Hypnomade",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 98,
+            "pok_code": "098",
+            "pok_namefr": "Krabby",
+            "pok_level_up": "28",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 99,
+            "pok_code": "099",
+            "pok_namefr": "Krabboss",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 100,
+            "pok_code": "100",
+            "pok_namefr": "Voltorbe",
+            "pok_level_up": "30",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 101,
+            "pok_code": "101",
+            "pok_namefr": "Electrode",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 102,
+            "pok_code": "102",
+            "pok_namefr": "Noeunoeuf",
+            "pok_level_up": "ls",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 103,
+            "pok_code": "103",
+            "pok_namefr": "Noadkoko",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 104,
+            "pok_code": "104",
+            "pok_namefr": "Osselait",
+            "pok_level_up": "28",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 105,
+            "pok_code": "105",
+            "pok_namefr": "Ossatueur",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 106,
+            "pok_code": "106",
+            "pok_namefr": "Kicklee",
+            "pok_level_up": "20",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 107,
+            "pok_code": "107",
+            "pok_namefr": "Tygnon",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 108,
+            "pok_code": "108",
+            "pok_namefr": "Excélangue",
+            "pok_level_up": "kn",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 109,
+            "pok_code": "109",
+            "pok_namefr": "Smogo",
+            "pok_level_up": "35",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 110,
+            "pok_code": "110",
+            "pok_namefr": "Smogogo",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 111,
+            "pok_code": "111",
+            "pok_namefr": "Rhinocorne",
+            "pok_level_up": "42",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 112,
+            "pok_code": "112",
+            "pok_namefr": "Rhinoféros",
+            "pok_level_up": "tr",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 113,
+            "pok_code": "113",
+            "pok_namefr": "Leveinard",
+            "pok_level_up": "lv",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 114,
+            "pok_code": "114",
+            "pok_namefr": "Saquedeneu",
+            "pok_level_up": "kn",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 115,
+            "pok_code": "115",
+            "pok_namefr": "Kangourex",
+            "pok_level_up": "mg",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 116,
+            "pok_code": "116",
+            "pok_namefr": "Hypotrempe",
+            "pok_level_up": "32",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 117,
+            "pok_code": "117",
+            "pok_namefr": "Hypocéan",
+            "pok_level_up": "tr",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 118,
+            "pok_code": "118",
+            "pok_namefr": "Poissirène",
+            "pok_level_up": "33",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 119,
+            "pok_code": "119",
+            "pok_namefr": "Poissoroy",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 120,
+            "pok_code": "120",
+            "pok_namefr": "Stari",
+            "pok_level_up": "ws",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 121,
+            "pok_code": "121",
+            "pok_namefr": "Staross",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 122,
+            "pok_code": "122",
+            "pok_namefr": "M. Mime",
+            "pok_level_up": "kn",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 123,
+            "pok_code": "123",
+            "pok_namefr": "Insécateur",
+            "pok_level_up": "tr",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 124,
+            "pok_code": "124",
+            "pok_namefr": "Lippoutou",
+            "pok_level_up": "30",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 125,
+            "pok_code": "125",
+            "pok_namefr": "Elektek",
+            "pok_level_up": "tr",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 126,
+            "pok_code": "126",
+            "pok_namefr": "Magmar",
+            "pok_level_up": "tr",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 127,
+            "pok_code": "127",
+            "pok_namefr": "Scarabrute",
+            "pok_level_up": "mg",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 128,
+            "pok_code": "128",
+            "pok_namefr": "Tauros",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 129,
+            "pok_code": "129",
+            "pok_namefr": "Magicarpe",
+            "pok_level_up": "20",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 130,
+            "pok_code": "130",
+            "pok_namefr": "Léviator",
+            "pok_level_up": "mg",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 131,
+            "pok_code": "131",
+            "pok_namefr": "Lokhlass",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 132,
+            "pok_code": "132",
+            "pok_namefr": "Métamorph",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 133,
+            "pok_code": "133",
+            "pok_namefr": "Evoli",
+            "pok_level_up": "ls",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 134,
+            "pok_code": "134",
+            "pok_namefr": "Aquali",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 135,
+            "pok_code": "135",
+            "pok_namefr": "Voltali",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 136,
+            "pok_code": "136",
+            "pok_namefr": "Pyroli",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 137,
+            "pok_code": "137",
+            "pok_namefr": "Porygon",
+            "pok_level_up": "tr",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 138,
+            "pok_code": "138",
+            "pok_namefr": "Amonita",
+            "pok_level_up": "40",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 139,
+            "pok_code": "139",
+            "pok_namefr": "Amonistar",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 140,
+            "pok_code": "140",
+            "pok_namefr": "Kabuto",
+            "pok_level_up": "40",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 141,
+            "pok_code": "141",
+            "pok_namefr": "Kabutops",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 142,
+            "pok_code": "142",
+            "pok_namefr": "Ptéra",
+            "pok_level_up": "mg",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 143,
+            "pok_code": "143",
+            "pok_namefr": "Ronflex",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 144,
+            "pok_code": "144",
+            "pok_namefr": "Artikodin",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 145,
+            "pok_code": "145",
+            "pok_namefr": "Electhor",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 146,
+            "pok_code": "146",
+            "pok_namefr": "Sulfura",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 147,
+            "pok_code": "147",
+            "pok_namefr": "Minidraco",
+            "pok_level_up": "30",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 148,
+            "pok_code": "148",
+            "pok_namefr": "Draco",
+            "pok_level_up": "55",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 149,
+            "pok_code": "149",
+            "pok_namefr": "Dracolosse",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 150,
+            "pok_code": "150",
+            "pok_namefr": "Mewtwo",
+            "pok_level_up": "mg",
+            "pok_legal": 0,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 151,
+            "pok_code": "151",
+            "pok_namefr": "Mew",
+            "pok_level_up": "",
+            "pok_legal": 0,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 152,
+            "pok_code": "152",
+            "pok_namefr": "Germignon",
+            "pok_level_up": "16",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 153,
+            "pok_code": "153",
+            "pok_namefr": "Macronium",
+            "pok_level_up": "32",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 154,
+            "pok_code": "154",
+            "pok_namefr": "Méganium",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 155,
+            "pok_code": "155",
+            "pok_namefr": "Héricendre",
+            "pok_level_up": "14",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 156,
+            "pok_code": "156",
+            "pok_namefr": "Feurisson",
+            "pok_level_up": "36",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 157,
+            "pok_code": "157",
+            "pok_namefr": "Typhlosion",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 158,
+            "pok_code": "158",
+            "pok_namefr": "Kaïminus",
+            "pok_level_up": "18",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 159,
+            "pok_code": "159",
+            "pok_namefr": "Crocrodil",
+            "pok_level_up": "30",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 160,
+            "pok_code": "160",
+            "pok_namefr": "Aligatueur",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 161,
+            "pok_code": "161",
+            "pok_namefr": "Fouinette",
+            "pok_level_up": "15",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 162,
+            "pok_code": "162",
+            "pok_namefr": "Fouinar",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 163,
+            "pok_code": "163",
+            "pok_namefr": "Hoothoot",
+            "pok_level_up": "20",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 164,
+            "pok_code": "164",
+            "pok_namefr": "Noarfang",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 165,
+            "pok_code": "165",
+            "pok_namefr": "Coxy",
+            "pok_level_up": "18",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 166,
+            "pok_code": "166",
+            "pok_namefr": "Coxyclaque",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 167,
+            "pok_code": "167",
+            "pok_namefr": "Mimigal",
+            "pok_level_up": "22",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 168,
+            "pok_code": "168",
+            "pok_namefr": "Migalos",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 169,
+            "pok_code": "169",
+            "pok_namefr": "Nostenfer",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 170,
+            "pok_code": "170",
+            "pok_namefr": "Loupio",
+            "pok_level_up": "27",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 171,
+            "pok_code": "171",
+            "pok_namefr": "Lanturn",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 172,
+            "pok_code": "172",
+            "pok_namefr": "Pichu",
+            "pok_level_up": "lv",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 173,
+            "pok_code": "173",
+            "pok_namefr": "Mélo",
+            "pok_level_up": "lv",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 174,
+            "pok_code": "174",
+            "pok_namefr": "Toudoudou",
+            "pok_level_up": "lv",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 175,
+            "pok_code": "175",
+            "pok_namefr": "Togépi",
+            "pok_level_up": "lv",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 176,
+            "pok_code": "176",
+            "pok_namefr": "Togétic",
+            "pok_level_up": "shs",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 177,
+            "pok_code": "177",
+            "pok_namefr": "Natu",
+            "pok_level_up": "25",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 178,
+            "pok_code": "178",
+            "pok_namefr": "Xatu",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 179,
+            "pok_code": "179",
+            "pok_namefr": "Wattouat",
+            "pok_level_up": "15",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 180,
+            "pok_code": "180",
+            "pok_namefr": "Lainergie",
+            "pok_level_up": "30",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 181,
+            "pok_code": "181",
+            "pok_namefr": "Pharamp",
+            "pok_level_up": "mg",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 182,
+            "pok_code": "182",
+            "pok_namefr": "Joliflor",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 183,
+            "pok_code": "183",
+            "pok_namefr": "Marill",
+            "pok_level_up": "18",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 184,
+            "pok_code": "184",
+            "pok_namefr": "Azumarill",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 185,
+            "pok_code": "185",
+            "pok_namefr": "Simularbre",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 186,
+            "pok_code": "186",
+            "pok_namefr": "Tarpaud",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 187,
+            "pok_code": "187",
+            "pok_namefr": "Granivol",
+            "pok_level_up": "18",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 188,
+            "pok_code": "188",
+            "pok_namefr": "Floravol",
+            "pok_level_up": "27",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 189,
+            "pok_code": "189",
+            "pok_namefr": "Cotovol",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 190,
+            "pok_code": "190",
+            "pok_namefr": "Capumain",
+            "pok_level_up": "kn",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 191,
+            "pok_code": "191",
+            "pok_namefr": "Tournegrin",
+            "pok_level_up": "ss",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 192,
+            "pok_code": "192",
+            "pok_namefr": "Héliatronc",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 193,
+            "pok_code": "193",
+            "pok_namefr": "Yanma",
+            "pok_level_up": "kn",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 194,
+            "pok_code": "194",
+            "pok_namefr": "Axoloto",
+            "pok_level_up": "20",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 195,
+            "pok_code": "195",
+            "pok_namefr": "Maraiste",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 196,
+            "pok_code": "196",
+            "pok_namefr": "Mentali",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 197,
+            "pok_code": "197",
+            "pok_namefr": "Noctali",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 198,
+            "pok_code": "198",
+            "pok_namefr": "Cornèbre",
+            "pok_level_up": "ds",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 199,
+            "pok_code": "199",
+            "pok_namefr": "Roigada",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 200,
+            "pok_code": "200",
+            "pok_namefr": "Feuforêve",
+            "pok_level_up": "ds",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 201,
+            "pok_code": "201",
+            "pok_namefr": "Zarbi",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 202,
+            "pok_code": "202",
+            "pok_namefr": "Qulbutoké",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 203,
+            "pok_code": "203",
+            "pok_namefr": "Girafarig",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 204,
+            "pok_code": "204",
+            "pok_namefr": "Pomdepik",
+            "pok_level_up": "31",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 205,
+            "pok_code": "205",
+            "pok_namefr": "Forêtress",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 206,
+            "pok_code": "206",
+            "pok_namefr": "Insolourdo",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 207,
+            "pok_code": "207",
+            "pok_namefr": "Scorplane",
+            "pok_level_up": "lvl",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 208,
+            "pok_code": "208",
+            "pok_namefr": "Steelix",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 209,
+            "pok_code": "209",
+            "pok_namefr": "Snubull",
+            "pok_level_up": "23",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 210,
+            "pok_code": "210",
+            "pok_namefr": "Granbull",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 211,
+            "pok_code": "211",
+            "pok_namefr": "Qwilfish",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 212,
+            "pok_code": "212",
+            "pok_namefr": "Cizayox",
+            "pok_level_up": "mg",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 213,
+            "pok_code": "213",
+            "pok_namefr": "Caratroc",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 214,
+            "pok_code": "214",
+            "pok_namefr": "Scarhino",
+            "pok_level_up": "mg",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 215,
+            "pok_code": "215",
+            "pok_namefr": "Farfuret",
+            "pok_level_up": "lvl",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 216,
+            "pok_code": "216",
+            "pok_namefr": "Teddiursa",
+            "pok_level_up": "30",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 217,
+            "pok_code": "217",
+            "pok_namefr": "Ursaring",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 218,
+            "pok_code": "218",
+            "pok_namefr": "Limagma",
+            "pok_level_up": "38",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 219,
+            "pok_code": "219",
+            "pok_namefr": "Volcaropod",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 220,
+            "pok_code": "220",
+            "pok_namefr": "Marcacrain",
+            "pok_level_up": "33",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 221,
+            "pok_code": "221",
+            "pok_namefr": "Cochignon",
+            "pok_level_up": "lvl",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 222,
+            "pok_code": "222",
+            "pok_namefr": "Corayon",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 223,
+            "pok_code": "223",
+            "pok_namefr": "Rémoraid",
+            "pok_level_up": "25",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 224,
+            "pok_code": "224",
+            "pok_namefr": "Octillery",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 225,
+            "pok_code": "225",
+            "pok_namefr": "Cadoizo",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 226,
+            "pok_code": "226",
+            "pok_namefr": "Démanta",
+            "pok_level_up": "lvl",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 227,
+            "pok_code": "227",
+            "pok_namefr": "Airmure",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 228,
+            "pok_code": "228",
+            "pok_namefr": "Malosse",
+            "pok_level_up": "24",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 229,
+            "pok_code": "229",
+            "pok_namefr": "Démolosse",
+            "pok_level_up": "mg",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 230,
+            "pok_code": "230",
+            "pok_namefr": "Hyporoi",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 231,
+            "pok_code": "231",
+            "pok_namefr": "Phanpy",
+            "pok_level_up": "25",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 232,
+            "pok_code": "232",
+            "pok_namefr": "Donphan",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 233,
+            "pok_code": "233",
+            "pok_namefr": "Porygon2",
+            "pok_level_up": "tr",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 234,
+            "pok_code": "234",
+            "pok_namefr": "Cerfrousse",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 235,
+            "pok_code": "235",
+            "pok_namefr": "Queulorior",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 236,
+            "pok_code": "236",
+            "pok_namefr": "Débugant",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 237,
+            "pok_code": "237",
+            "pok_namefr": "Kapoera",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 238,
+            "pok_code": "238",
+            "pok_namefr": "Lippouti",
+            "pok_level_up": "30",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 239,
+            "pok_code": "239",
+            "pok_namefr": "Elékid",
+            "pok_level_up": "30",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 240,
+            "pok_code": "240",
+            "pok_namefr": "Magby",
+            "pok_level_up": "30",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 241,
+            "pok_code": "241",
+            "pok_namefr": "Ecrémeuh",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 242,
+            "pok_code": "242",
+            "pok_namefr": "Leuphorie",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 243,
+            "pok_code": "243",
+            "pok_namefr": "Raikou",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 244,
+            "pok_code": "244",
+            "pok_namefr": "Enteï",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 245,
+            "pok_code": "245",
+            "pok_namefr": "Suicune",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 246,
+            "pok_code": "246",
+            "pok_namefr": "Embrylex",
+            "pok_level_up": "30",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 247,
+            "pok_code": "247",
+            "pok_namefr": "Ymphect",
+            "pok_level_up": "55",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 248,
+            "pok_code": "248",
+            "pok_namefr": "Tyranocif",
+            "pok_level_up": "mg",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 249,
+            "pok_code": "249",
+            "pok_namefr": "Lugia",
+            "pok_level_up": "",
+            "pok_legal": 0,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 250,
+            "pok_code": "250",
+            "pok_namefr": "Ho-Oh",
+            "pok_level_up": "",
+            "pok_legal": 0,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 251,
+            "pok_code": "251",
+            "pok_namefr": "Célébi",
+            "pok_level_up": "",
+            "pok_legal": 0,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 252,
+            "pok_code": "252",
+            "pok_namefr": "Arcko",
+            "pok_level_up": "16",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 253,
+            "pok_code": "253",
+            "pok_namefr": "Massko",
+            "pok_level_up": "36",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 254,
+            "pok_code": "254",
+            "pok_namefr": "Jungko",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 255,
+            "pok_code": "255",
+            "pok_namefr": "Poussifeu",
+            "pok_level_up": "16",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 256,
+            "pok_code": "256",
+            "pok_namefr": "Galifeu",
+            "pok_level_up": "36",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 257,
+            "pok_code": "257",
+            "pok_namefr": "Brasegali",
+            "pok_level_up": "mg",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 258,
+            "pok_code": "258",
+            "pok_namefr": "Gobou",
+            "pok_level_up": "16",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 259,
+            "pok_code": "259",
+            "pok_namefr": "Flobio",
+            "pok_level_up": "36",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 260,
+            "pok_code": "260",
+            "pok_namefr": "Laggron",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 261,
+            "pok_code": "261",
+            "pok_namefr": "Medhyena",
+            "pok_level_up": "18",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 262,
+            "pok_code": "262",
+            "pok_namefr": "Grahyena",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 263,
+            "pok_code": "263",
+            "pok_namefr": "Zigzaton",
+            "pok_level_up": "20",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 264,
+            "pok_code": "264",
+            "pok_namefr": "Lineon",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 265,
+            "pok_code": "265",
+            "pok_namefr": "Chenipotte",
+            "pok_level_up": "7",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 266,
+            "pok_code": "266",
+            "pok_namefr": "Armulys",
+            "pok_level_up": "10",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 267,
+            "pok_code": "267",
+            "pok_namefr": "Charmillon",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 268,
+            "pok_code": "268",
+            "pok_namefr": "Blindalys",
+            "pok_level_up": "10",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 269,
+            "pok_code": "269",
+            "pok_namefr": "Papinox",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 270,
+            "pok_code": "270",
+            "pok_namefr": "Nenupiot",
+            "pok_level_up": "14",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 271,
+            "pok_code": "271",
+            "pok_namefr": "Lombre",
+            "pok_level_up": "ws",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 272,
+            "pok_code": "272",
+            "pok_namefr": "Ludicolo",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 273,
+            "pok_code": "273",
+            "pok_namefr": "Grainipiot",
+            "pok_level_up": "14",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 274,
+            "pok_code": "274",
+            "pok_namefr": "Pifeuil",
+            "pok_level_up": "ls",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 275,
+            "pok_code": "275",
+            "pok_namefr": "Tengalice",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 276,
+            "pok_code": "276",
+            "pok_namefr": "Nirondelle",
+            "pok_level_up": "22",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 277,
+            "pok_code": "277",
+            "pok_namefr": "Heledelle",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 278,
+            "pok_code": "278",
+            "pok_namefr": "Goelise",
+            "pok_level_up": "25",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 279,
+            "pok_code": "279",
+            "pok_namefr": "Bekipan",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 280,
+            "pok_code": "280",
+            "pok_namefr": "Tarsal",
+            "pok_level_up": "20",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 281,
+            "pok_code": "281",
+            "pok_namefr": "Kirlia",
+            "pok_level_up": "30",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 282,
+            "pok_code": "282",
+            "pok_namefr": "Gardevoir",
+            "pok_level_up": "mg",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 283,
+            "pok_code": "283",
+            "pok_namefr": "Arakdo",
+            "pok_level_up": "22",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 284,
+            "pok_code": "284",
+            "pok_namefr": "Maskadra",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 285,
+            "pok_code": "285",
+            "pok_namefr": "Balignon",
+            "pok_level_up": "23",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 286,
+            "pok_code": "286",
+            "pok_namefr": "Chapignon",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 287,
+            "pok_code": "287",
+            "pok_namefr": "Parecool",
+            "pok_level_up": "18",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 288,
+            "pok_code": "288",
+            "pok_namefr": "Vigoroth",
+            "pok_level_up": "36",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 289,
+            "pok_code": "289",
+            "pok_namefr": "Monaflemit",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 290,
+            "pok_code": "290",
+            "pok_namefr": "Ningale",
+            "pok_level_up": "20",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 291,
+            "pok_code": "291",
+            "pok_namefr": "Ninjask",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 292,
+            "pok_code": "292",
+            "pok_namefr": "Munja",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 293,
+            "pok_code": "293",
+            "pok_namefr": "Chuchmur",
+            "pok_level_up": "20",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 294,
+            "pok_code": "294",
+            "pok_namefr": "Ramboum",
+            "pok_level_up": "40",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 295,
+            "pok_code": "295",
+            "pok_namefr": "Brouhabam",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 296,
+            "pok_code": "296",
+            "pok_namefr": "Makuhita",
+            "pok_level_up": "24",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 297,
+            "pok_code": "297",
+            "pok_namefr": "Hariyama",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 298,
+            "pok_code": "298",
+            "pok_namefr": "Azurill",
+            "pok_level_up": "lv",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 299,
+            "pok_code": "299",
+            "pok_namefr": "Tarinor",
+            "pok_level_up": "lvl",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 300,
+            "pok_code": "300",
+            "pok_namefr": "Skitty",
+            "pok_level_up": "ms",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 301,
+            "pok_code": "301",
+            "pok_namefr": "Delcatty",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 302,
+            "pok_code": "302",
+            "pok_namefr": "Tenefix",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 303,
+            "pok_code": "303",
+            "pok_namefr": "Mysdibule",
+            "pok_level_up": "mg",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 304,
+            "pok_code": "304",
+            "pok_namefr": "Galekid",
+            "pok_level_up": "32",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 305,
+            "pok_code": "305",
+            "pok_namefr": "Galegon",
+            "pok_level_up": "42",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 306,
+            "pok_code": "306",
+            "pok_namefr": "Galeking",
+            "pok_level_up": "mg",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 307,
+            "pok_code": "307",
+            "pok_namefr": "Meditikka",
+            "pok_level_up": "37",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 308,
+            "pok_code": "308",
+            "pok_namefr": "Charmina",
+            "pok_level_up": "mg",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 309,
+            "pok_code": "309",
+            "pok_namefr": "Dynavolt",
+            "pok_level_up": "26",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 310,
+            "pok_code": "310",
+            "pok_namefr": "Elecsprint",
+            "pok_level_up": "mg",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 311,
+            "pok_code": "311",
+            "pok_namefr": "Posipi",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 312,
+            "pok_code": "312",
+            "pok_namefr": "Négapi",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 313,
+            "pok_code": "313",
+            "pok_namefr": "Muciole",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 314,
+            "pok_code": "314",
+            "pok_namefr": "Lumivole",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 315,
+            "pok_code": "315",
+            "pok_namefr": "Roselia",
+            "pok_level_up": "shs",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 316,
+            "pok_code": "316",
+            "pok_namefr": "Gloupti",
+            "pok_level_up": "26",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 317,
+            "pok_code": "317",
+            "pok_namefr": "Avaltout",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 318,
+            "pok_code": "318",
+            "pok_namefr": "Carvanha",
+            "pok_level_up": "30",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 319,
+            "pok_code": "319",
+            "pok_namefr": "Sharpedo",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 320,
+            "pok_code": "320",
+            "pok_namefr": "Wailmer",
+            "pok_level_up": "40",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 321,
+            "pok_code": "321",
+            "pok_namefr": "Wailord",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 322,
+            "pok_code": "322",
+            "pok_namefr": "Chamallot",
+            "pok_level_up": "33",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 323,
+            "pok_code": "323",
+            "pok_namefr": "Camerupt",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 324,
+            "pok_code": "324",
+            "pok_namefr": "Chartor",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 325,
+            "pok_code": "325",
+            "pok_namefr": "Spoink",
+            "pok_level_up": "32",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 326,
+            "pok_code": "326",
+            "pok_namefr": "Groret",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 327,
+            "pok_code": "327",
+            "pok_namefr": "Spinda",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 328,
+            "pok_code": "328",
+            "pok_namefr": "Kraknoix",
+            "pok_level_up": "35",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 329,
+            "pok_code": "329",
+            "pok_namefr": "Vibrannif",
+            "pok_level_up": "45",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 330,
+            "pok_code": "330",
+            "pok_namefr": "Libegon",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 331,
+            "pok_code": "331",
+            "pok_namefr": "Cacnea",
+            "pok_level_up": "32",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 332,
+            "pok_code": "332",
+            "pok_namefr": "Cacturne",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 333,
+            "pok_code": "333",
+            "pok_namefr": "Tylton",
+            "pok_level_up": "35",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 334,
+            "pok_code": "334",
+            "pok_namefr": "Altaria",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 335,
+            "pok_code": "335",
+            "pok_namefr": "Mangriff",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 336,
+            "pok_code": "336",
+            "pok_namefr": "Seviper",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 337,
+            "pok_code": "337",
+            "pok_namefr": "Séléroc",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 338,
+            "pok_code": "338",
+            "pok_namefr": "Solaroc",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 339,
+            "pok_code": "339",
+            "pok_namefr": "Barloche",
+            "pok_level_up": "30",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 340,
+            "pok_code": "340",
+            "pok_namefr": "Barbicha",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 341,
+            "pok_code": "341",
+            "pok_namefr": "Ecrapince",
+            "pok_level_up": "30",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 342,
+            "pok_code": "342",
+            "pok_namefr": "Colhomard",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 343,
+            "pok_code": "343",
+            "pok_namefr": "Balbuto",
+            "pok_level_up": "36",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 344,
+            "pok_code": "344",
+            "pok_namefr": "Kaorine",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 345,
+            "pok_code": "345",
+            "pok_namefr": "Lilia",
+            "pok_level_up": "40",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 346,
+            "pok_code": "346",
+            "pok_namefr": "Vacilys",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 347,
+            "pok_code": "347",
+            "pok_namefr": "Anorith",
+            "pok_level_up": "40",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 348,
+            "pok_code": "348",
+            "pok_namefr": "Armaldo",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 349,
+            "pok_code": "349",
+            "pok_namefr": "Barpau",
+            "pok_level_up": "tr",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 350,
+            "pok_code": "350",
+            "pok_namefr": "Milobellus",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 351,
+            "pok_code": "351",
+            "pok_namefr": "Morphéo",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 352,
+            "pok_code": "352",
+            "pok_namefr": "Kecleon",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 353,
+            "pok_code": "353",
+            "pok_namefr": "Polichombr",
+            "pok_level_up": "37",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 354,
+            "pok_code": "354",
+            "pok_namefr": "Branette",
+            "pok_level_up": "mg",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 355,
+            "pok_code": "355",
+            "pok_namefr": "Skelenox",
+            "pok_level_up": "37",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 356,
+            "pok_code": "356",
+            "pok_namefr": "Teraclope",
+            "pok_level_up": "tr",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 357,
+            "pok_code": "357",
+            "pok_namefr": "Tropius",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 358,
+            "pok_code": "358",
+            "pok_namefr": "Eoko",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 359,
+            "pok_code": "359",
+            "pok_namefr": "Absol",
+            "pok_level_up": "mg",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 360,
+            "pok_code": "360",
+            "pok_namefr": "Okeoke",
+            "pok_level_up": "15",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 361,
+            "pok_code": "361",
+            "pok_namefr": "Stalgamin",
+            "pok_level_up": "42",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 362,
+            "pok_code": "362",
+            "pok_namefr": "Oniglali",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 363,
+            "pok_code": "363",
+            "pok_namefr": "Obalie",
+            "pok_level_up": "32",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 364,
+            "pok_code": "364",
+            "pok_namefr": "Phogleur",
+            "pok_level_up": "44",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 365,
+            "pok_code": "365",
+            "pok_namefr": "Kaimorse",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 366,
+            "pok_code": "366",
+            "pok_namefr": "Coquiperl",
+            "pok_level_up": "tr",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 367,
+            "pok_code": "367",
+            "pok_namefr": "Serpang",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 368,
+            "pok_code": "368",
+            "pok_namefr": "Rosabyss",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 369,
+            "pok_code": "369",
+            "pok_namefr": "Relicanth",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 370,
+            "pok_code": "370",
+            "pok_namefr": "Lovdisc",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 371,
+            "pok_code": "371",
+            "pok_namefr": "Draby",
+            "pok_level_up": "30",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 372,
+            "pok_code": "372",
+            "pok_namefr": "Drackhaus",
+            "pok_level_up": "50",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 373,
+            "pok_code": "373",
+            "pok_namefr": "Drattak",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 374,
+            "pok_code": "374",
+            "pok_namefr": "Terhal",
+            "pok_level_up": "20",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 375,
+            "pok_code": "375",
+            "pok_namefr": "Metang",
+            "pok_level_up": "45",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 376,
+            "pok_code": "376",
+            "pok_namefr": "Metalosse",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 377,
+            "pok_code": "377",
+            "pok_namefr": "Regirock",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 378,
+            "pok_code": "378",
+            "pok_namefr": "Regice",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 379,
+            "pok_code": "379",
+            "pok_namefr": "Registeel",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 380,
+            "pok_code": "380",
+            "pok_namefr": "Latias",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 381,
+            "pok_code": "381",
+            "pok_namefr": "Latios",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 382,
+            "pok_code": "382",
+            "pok_namefr": "Kyogre",
+            "pok_level_up": "",
+            "pok_legal": 0,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 383,
+            "pok_code": "383",
+            "pok_namefr": "Groudon",
+            "pok_level_up": "",
+            "pok_legal": 0,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 384,
+            "pok_code": "384",
+            "pok_namefr": "Rayquaza",
+            "pok_level_up": "",
+            "pok_legal": 0,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 385,
+            "pok_code": "385",
+            "pok_namefr": "Jirachi",
+            "pok_level_up": "",
+            "pok_legal": 0,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 386,
+            "pok_code": "386",
+            "pok_namefr": "Deoxys",
+            "pok_level_up": "",
+            "pok_legal": 0,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 387,
+            "pok_code": "387",
+            "pok_namefr": "Tortipouss",
+            "pok_level_up": "18",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 388,
+            "pok_code": "388",
+            "pok_namefr": "Boskara",
+            "pok_level_up": "32",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 389,
+            "pok_code": "389",
+            "pok_namefr": "Torterra",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 390,
+            "pok_code": "390",
+            "pok_namefr": "Ouisticram",
+            "pok_level_up": "14",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 391,
+            "pok_code": "391",
+            "pok_namefr": "Chimpenfeu",
+            "pok_level_up": "36",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 392,
+            "pok_code": "392",
+            "pok_namefr": "Simiabraz",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 393,
+            "pok_code": "393",
+            "pok_namefr": "Tiplouf",
+            "pok_level_up": "16",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 394,
+            "pok_code": "394",
+            "pok_namefr": "Prinplouf",
+            "pok_level_up": "36",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 395,
+            "pok_code": "395",
+            "pok_namefr": "Pingoleon",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 396,
+            "pok_code": "396",
+            "pok_namefr": "Etourmi",
+            "pok_level_up": "14",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 397,
+            "pok_code": "397",
+            "pok_namefr": "Etourvol",
+            "pok_level_up": "34",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 398,
+            "pok_code": "398",
+            "pok_namefr": "Etouraptor",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 399,
+            "pok_code": "399",
+            "pok_namefr": "Keunotor",
+            "pok_level_up": "15",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 400,
+            "pok_code": "400",
+            "pok_namefr": "Castorno",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 401,
+            "pok_code": "401",
+            "pok_namefr": "Crikzik",
+            "pok_level_up": "10",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 402,
+            "pok_code": "402",
+            "pok_namefr": "Melokrik",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 403,
+            "pok_code": "403",
+            "pok_namefr": "Lixy",
+            "pok_level_up": "15",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 404,
+            "pok_code": "404",
+            "pok_namefr": "Luxio",
+            "pok_level_up": "30",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 405,
+            "pok_code": "405",
+            "pok_namefr": "Luxray",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 406,
+            "pok_code": "406",
+            "pok_namefr": "Rozbouton",
+            "pok_level_up": "lv",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 407,
+            "pok_code": "407",
+            "pok_namefr": "Roserade",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 408,
+            "pok_code": "408",
+            "pok_namefr": "Kranidos",
+            "pok_level_up": "30",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 409,
+            "pok_code": "409",
+            "pok_namefr": "Charkos",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 410,
+            "pok_code": "410",
+            "pok_namefr": "Dinoclier",
+            "pok_level_up": "30",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 411,
+            "pok_code": "411",
+            "pok_namefr": "Bastiodon",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 412,
+            "pok_code": "412",
+            "pok_namefr": "Cheniti",
+            "pok_level_up": "20",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 413,
+            "pok_code": "413",
+            "pok_namefr": "Cheniselle",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 414,
+            "pok_code": "414",
+            "pok_namefr": "Papilord",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 415,
+            "pok_code": "415",
+            "pok_namefr": "Apitrini",
+            "pok_level_up": "21",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 416,
+            "pok_code": "416",
+            "pok_namefr": "Apireine",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 417,
+            "pok_code": "417",
+            "pok_namefr": "Pachirisu",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 418,
+            "pok_code": "418",
+            "pok_namefr": "Mustebouée",
+            "pok_level_up": "26",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 419,
+            "pok_code": "419",
+            "pok_namefr": "Musteflott",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 420,
+            "pok_code": "420",
+            "pok_namefr": "Ceribou",
+            "pok_level_up": "25",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 421,
+            "pok_code": "421",
+            "pok_namefr": "Ceriflor",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 422,
+            "pok_code": "422",
+            "pok_namefr": "Sancoki",
+            "pok_level_up": "30",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 423,
+            "pok_code": "423",
+            "pok_namefr": "Tritosor",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 424,
+            "pok_code": "424",
+            "pok_namefr": "Capidextre",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 425,
+            "pok_code": "425",
+            "pok_namefr": "Baudrive",
+            "pok_level_up": "28",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 426,
+            "pok_code": "426",
+            "pok_namefr": "Grodrive",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 427,
+            "pok_code": "427",
+            "pok_namefr": "Laporeille",
+            "pok_level_up": "lv",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 428,
+            "pok_code": "428",
+            "pok_namefr": "Lockpin",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 429,
+            "pok_code": "429",
+            "pok_namefr": "Magirêve",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 430,
+            "pok_code": "430",
+            "pok_namefr": "Corboss",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 431,
+            "pok_code": "431",
+            "pok_namefr": "Chaglam",
+            "pok_level_up": "38",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 432,
+            "pok_code": "432",
+            "pok_namefr": "Chaffreux",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 433,
+            "pok_code": "433",
+            "pok_namefr": "Korillon",
+            "pok_level_up": "lv",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 434,
+            "pok_code": "434",
+            "pok_namefr": "Moufouette",
+            "pok_level_up": "34",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 435,
+            "pok_code": "435",
+            "pok_namefr": "Moufflair",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 436,
+            "pok_code": "436",
+            "pok_namefr": "Archeomire",
+            "pok_level_up": "33",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 437,
+            "pok_code": "437",
+            "pok_namefr": "Archeodong",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 438,
+            "pok_code": "438",
+            "pok_namefr": "Manzaï",
+            "pok_level_up": "kn",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 439,
+            "pok_code": "439",
+            "pok_namefr": "Mime Jr.",
+            "pok_level_up": "kn",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 440,
+            "pok_code": "440",
+            "pok_namefr": "Ptiravi",
+            "pok_level_up": "lvl",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 441,
+            "pok_code": "441",
+            "pok_namefr": "Pijako",
+            "pok_level_up": "",
+            "pok_legal": 0,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 442,
+            "pok_code": "442",
+            "pok_namefr": "Spiritomb",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 443,
+            "pok_code": "443",
+            "pok_namefr": "Griknot",
+            "pok_level_up": "24",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 444,
+            "pok_code": "444",
+            "pok_namefr": "Carmache",
+            "pok_level_up": "48",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 445,
+            "pok_code": "445",
+            "pok_namefr": "Carchacrok",
+            "pok_level_up": "mg",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 446,
+            "pok_code": "446",
+            "pok_namefr": "Goinfrex",
+            "pok_level_up": "lv",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 447,
+            "pok_code": "447",
+            "pok_namefr": "Riolu",
+            "pok_level_up": "lv",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 448,
+            "pok_code": "448",
+            "pok_namefr": "Lucario",
+            "pok_level_up": "mg",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 449,
+            "pok_code": "449",
+            "pok_namefr": "Hippopotas",
+            "pok_level_up": "34",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 450,
+            "pok_code": "450",
+            "pok_namefr": "Hippodocus",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 451,
+            "pok_code": "451",
+            "pok_namefr": "Rapion",
+            "pok_level_up": "40",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 452,
+            "pok_code": "452",
+            "pok_namefr": "Drascore",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 453,
+            "pok_code": "453",
+            "pok_namefr": "Cradopaud",
+            "pok_level_up": "37",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 454,
+            "pok_code": "454",
+            "pok_namefr": "Coatox",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 455,
+            "pok_code": "455",
+            "pok_namefr": "Vortente",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 456,
+            "pok_code": "456",
+            "pok_namefr": "Ecayon",
+            "pok_level_up": "31",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 457,
+            "pok_code": "457",
+            "pok_namefr": "Lumineon",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 458,
+            "pok_code": "458",
+            "pok_namefr": "Babimanta",
+            "pok_level_up": "lvl",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 459,
+            "pok_code": "459",
+            "pok_namefr": "Blizzi",
+            "pok_level_up": "40",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 460,
+            "pok_code": "460",
+            "pok_namefr": "Blizzaroi",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 461,
+            "pok_code": "461",
+            "pok_namefr": "Dimoret",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 462,
+            "pok_code": "462",
+            "pok_namefr": "Magnezone",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 463,
+            "pok_code": "463",
+            "pok_namefr": "Coudlangue",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 464,
+            "pok_code": "464",
+            "pok_namefr": "Rhinastoc",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 465,
+            "pok_code": "465",
+            "pok_namefr": "Bouldeneu",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 466,
+            "pok_code": "466",
+            "pok_namefr": "Elekable",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 467,
+            "pok_code": "467",
+            "pok_namefr": "Maganon",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 468,
+            "pok_code": "468",
+            "pok_namefr": "Togekiss",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 469,
+            "pok_code": "469",
+            "pok_namefr": "Yanmega",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 470,
+            "pok_code": "470",
+            "pok_namefr": "Phyllali",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 471,
+            "pok_code": "471",
+            "pok_namefr": "Givrali",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 472,
+            "pok_code": "472",
+            "pok_namefr": "Scorvol",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 473,
+            "pok_code": "473",
+            "pok_namefr": "Mammochon",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 474,
+            "pok_code": "474",
+            "pok_namefr": "Porygon-Z",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 475,
+            "pok_code": "475",
+            "pok_namefr": "Gallame",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 476,
+            "pok_code": "476",
+            "pok_namefr": "Tarinorme",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 477,
+            "pok_code": "477",
+            "pok_namefr": "Noctunoir",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 478,
+            "pok_code": "478",
+            "pok_namefr": "Momartik",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 479,
+            "pok_code": "479",
+            "pok_namefr": "Motisma",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 480,
+            "pok_code": "480",
+            "pok_namefr": "Crehelf",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 481,
+            "pok_code": "481",
+            "pok_namefr": "Crefollet",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 482,
+            "pok_code": "482",
+            "pok_namefr": "Crefadet",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 483,
+            "pok_code": "483",
+            "pok_namefr": "Dialga",
+            "pok_level_up": "",
+            "pok_legal": 0,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 484,
+            "pok_code": "484",
+            "pok_namefr": "Palkia",
+            "pok_level_up": "",
+            "pok_legal": 0,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 485,
+            "pok_code": "485",
+            "pok_namefr": "Heatran",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 486,
+            "pok_code": "486",
+            "pok_namefr": "Regigigas",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 487,
+            "pok_code": "487",
+            "pok_namefr": "Giratina",
+            "pok_level_up": "",
+            "pok_legal": 0,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 488,
+            "pok_code": "488",
+            "pok_namefr": "Cresselia",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 489,
+            "pok_code": "489",
+            "pok_namefr": "Phione",
+            "pok_level_up": "",
+            "pok_legal": 0,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 490,
+            "pok_code": "490",
+            "pok_namefr": "Manaphy",
+            "pok_level_up": "",
+            "pok_legal": 0,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 491,
+            "pok_code": "491",
+            "pok_namefr": "Darkrai",
+            "pok_level_up": "",
+            "pok_legal": 0,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 492,
+            "pok_code": "492",
+            "pok_namefr": "Shaymin",
+            "pok_level_up": "",
+            "pok_legal": 0,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 493,
+            "pok_code": "493",
+            "pok_namefr": "Arceus",
+            "pok_level_up": "",
+            "pok_legal": 0,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 494,
+            "pok_code": "494",
+            "pok_namefr": "Victini",
+            "pok_level_up": "",
+            "pok_legal": 0,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 495,
+            "pok_code": "495",
+            "pok_namefr": "Vipélierre",
+            "pok_level_up": "17",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 496,
+            "pok_code": "496",
+            "pok_namefr": "Lianaja",
+            "pok_level_up": "36",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 497,
+            "pok_code": "497",
+            "pok_namefr": "Majaspic",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 498,
+            "pok_code": "498",
+            "pok_namefr": "Gruikui",
+            "pok_level_up": "17",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 499,
+            "pok_code": "499",
+            "pok_namefr": "Grotichon",
+            "pok_level_up": "36",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 500,
+            "pok_code": "500",
+            "pok_namefr": "Roitiflam",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 501,
+            "pok_code": "501",
+            "pok_namefr": "Moustillon",
+            "pok_level_up": "17",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 502,
+            "pok_code": "502",
+            "pok_namefr": "Mateloutre",
+            "pok_level_up": "36",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 503,
+            "pok_code": "503",
+            "pok_namefr": "Clamiral",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 504,
+            "pok_code": "504",
+            "pok_namefr": "Ratentif",
+            "pok_level_up": "20",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 505,
+            "pok_code": "505",
+            "pok_namefr": "Miradar",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 506,
+            "pok_code": "506",
+            "pok_namefr": "Ponchiot",
+            "pok_level_up": "16",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 507,
+            "pok_code": "507",
+            "pok_namefr": "Ponchien",
+            "pok_level_up": "32",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 508,
+            "pok_code": "508",
+            "pok_namefr": "Mastouffe",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 509,
+            "pok_code": "509",
+            "pok_namefr": "Chacripan",
+            "pok_level_up": "20",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 510,
+            "pok_code": "510",
+            "pok_namefr": "Léopardus",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 511,
+            "pok_code": "511",
+            "pok_namefr": "Feuillajou",
+            "pok_level_up": "ls",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 512,
+            "pok_code": "512",
+            "pok_namefr": "Feuiloutan",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 513,
+            "pok_code": "513",
+            "pok_namefr": "Flamajou",
+            "pok_level_up": "fs",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 514,
+            "pok_code": "514",
+            "pok_namefr": "Flamoutan",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 515,
+            "pok_code": "515",
+            "pok_namefr": "Flotajou",
+            "pok_level_up": "ws",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 516,
+            "pok_code": "516",
+            "pok_namefr": "Flotoutan",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 517,
+            "pok_code": "517",
+            "pok_namefr": "Munna",
+            "pok_level_up": "ms",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 518,
+            "pok_code": "518",
+            "pok_namefr": "Mushana",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 519,
+            "pok_code": "519",
+            "pok_namefr": "Poichigeon",
+            "pok_level_up": "21",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 520,
+            "pok_code": "520",
+            "pok_namefr": "Colombeau",
+            "pok_level_up": "32",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 521,
+            "pok_code": "521",
+            "pok_namefr": "Déflaisan",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 522,
+            "pok_code": "522",
+            "pok_namefr": "Zébibron",
+            "pok_level_up": "27",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 523,
+            "pok_code": "523",
+            "pok_namefr": "Zéblitz",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 524,
+            "pok_code": "524",
+            "pok_namefr": "Nodulithe",
+            "pok_level_up": "25",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 525,
+            "pok_code": "525",
+            "pok_namefr": "Géolithe",
+            "pok_level_up": "tr",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 526,
+            "pok_code": "526",
+            "pok_namefr": "Gigalithe",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 527,
+            "pok_code": "527",
+            "pok_namefr": "Chovsourir",
+            "pok_level_up": "lv",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 528,
+            "pok_code": "528",
+            "pok_namefr": "Rhinolove",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 529,
+            "pok_code": "529",
+            "pok_namefr": "Rototaupe",
+            "pok_level_up": "31",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 530,
+            "pok_code": "530",
+            "pok_namefr": "Minotaupe",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 531,
+            "pok_code": "531",
+            "pok_namefr": "Nanméouïe",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 532,
+            "pok_code": "532",
+            "pok_namefr": "Charpenti",
+            "pok_level_up": "25",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 533,
+            "pok_code": "533",
+            "pok_namefr": "Ouvrifier",
+            "pok_level_up": "tr",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 534,
+            "pok_code": "534",
+            "pok_namefr": "Bétochef",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 535,
+            "pok_code": "535",
+            "pok_namefr": "Tritonde",
+            "pok_level_up": "25",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 536,
+            "pok_code": "536",
+            "pok_namefr": "Batracné",
+            "pok_level_up": "36",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 537,
+            "pok_code": "537",
+            "pok_namefr": "Crapustule",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 538,
+            "pok_code": "538",
+            "pok_namefr": "Judokrak",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 539,
+            "pok_code": "539",
+            "pok_namefr": "Karaclée",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 540,
+            "pok_code": "540",
+            "pok_namefr": "Larveyette",
+            "pok_level_up": "20",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 541,
+            "pok_code": "541",
+            "pok_namefr": "Couverdure",
+            "pok_level_up": "lv",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 542,
+            "pok_code": "542",
+            "pok_namefr": "Manternel",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 543,
+            "pok_code": "543",
+            "pok_namefr": "Venipatte",
+            "pok_level_up": "22",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 544,
+            "pok_code": "544",
+            "pok_namefr": "Scobolide",
+            "pok_level_up": "30",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 545,
+            "pok_code": "545",
+            "pok_namefr": "Brutapode",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 546,
+            "pok_code": "546",
+            "pok_namefr": "Doudouvet",
+            "pok_level_up": "ss",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 547,
+            "pok_code": "547",
+            "pok_namefr": "Farfaduvet",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 548,
+            "pok_code": "548",
+            "pok_namefr": "Chlorobule",
+            "pok_level_up": "ss",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 549,
+            "pok_code": "549",
+            "pok_namefr": "Fragilady",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 550,
+            "pok_code": "550",
+            "pok_namefr": "Bargantua",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 551,
+            "pok_code": "551",
+            "pok_namefr": "Mascaïman",
+            "pok_level_up": "29",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 552,
+            "pok_code": "552",
+            "pok_namefr": "Escroco",
+            "pok_level_up": "40",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 553,
+            "pok_code": "553",
+            "pok_namefr": "Crocorible",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 554,
+            "pok_code": "554",
+            "pok_namefr": "Darumarond",
+            "pok_level_up": "35",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 555,
+            "pok_code": "555",
+            "pok_namefr": "Darumacho",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 556,
+            "pok_code": "556",
+            "pok_namefr": "Maracachi",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 557,
+            "pok_code": "557",
+            "pok_namefr": "Crabicoque",
+            "pok_level_up": "34",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 558,
+            "pok_code": "558",
+            "pok_namefr": "Crabaraque",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 559,
+            "pok_code": "559",
+            "pok_namefr": "Baggiguane",
+            "pok_level_up": "39",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 560,
+            "pok_code": "560",
+            "pok_namefr": "Baggaïd",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 561,
+            "pok_code": "561",
+            "pok_namefr": "Cryptéro",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 562,
+            "pok_code": "562",
+            "pok_namefr": "Tutafeh",
+            "pok_level_up": "34",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 563,
+            "pok_code": "563",
+            "pok_namefr": "Tutankafer",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 564,
+            "pok_code": "564",
+            "pok_namefr": "Carapagos",
+            "pok_level_up": "37",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 565,
+            "pok_code": "565",
+            "pok_namefr": "Mégapagos",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 566,
+            "pok_code": "566",
+            "pok_namefr": "Arkéapti",
+            "pok_level_up": "37",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 567,
+            "pok_code": "567",
+            "pok_namefr": "Aéropteryx",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 568,
+            "pok_code": "568",
+            "pok_namefr": "Miamiasme",
+            "pok_level_up": "36",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 569,
+            "pok_code": "569",
+            "pok_namefr": "Miasmax",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 570,
+            "pok_code": "570",
+            "pok_namefr": "Zorua",
+            "pok_level_up": "30",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 571,
+            "pok_code": "571",
+            "pok_namefr": "Zoroark",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 572,
+            "pok_code": "572",
+            "pok_namefr": "Chinchidou",
+            "pok_level_up": "shs",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 573,
+            "pok_code": "573",
+            "pok_namefr": "Pashmilla",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 574,
+            "pok_code": "574",
+            "pok_namefr": "Scrutella",
+            "pok_level_up": "32",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 575,
+            "pok_code": "575",
+            "pok_namefr": "Mesmérella",
+            "pok_level_up": "41",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 576,
+            "pok_code": "576",
+            "pok_namefr": "Sidérella",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 577,
+            "pok_code": "577",
+            "pok_namefr": "Nucléos",
+            "pok_level_up": "32",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 578,
+            "pok_code": "578",
+            "pok_namefr": "Méios",
+            "pok_level_up": "41",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 579,
+            "pok_code": "579",
+            "pok_namefr": "Symbios",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 580,
+            "pok_code": "580",
+            "pok_namefr": "Couaneton",
+            "pok_level_up": "35",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 581,
+            "pok_code": "581",
+            "pok_namefr": "Lakmécygne",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 582,
+            "pok_code": "582",
+            "pok_namefr": "Sorbébé",
+            "pok_level_up": "35",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 583,
+            "pok_code": "583",
+            "pok_namefr": "Sorboul",
+            "pok_level_up": "47",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 584,
+            "pok_code": "584",
+            "pok_namefr": "Sorbouboul",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 585,
+            "pok_code": "585",
+            "pok_namefr": "Vivaldaim",
+            "pok_level_up": "34",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 586,
+            "pok_code": "586",
+            "pok_namefr": "Haydaim",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 587,
+            "pok_code": "587",
+            "pok_namefr": "Emolga",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 588,
+            "pok_code": "588",
+            "pok_namefr": "Carabing",
+            "pok_level_up": "tr",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 589,
+            "pok_code": "589",
+            "pok_namefr": "Lançargot",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 590,
+            "pok_code": "590",
+            "pok_namefr": "Trompignon",
+            "pok_level_up": "39",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 591,
+            "pok_code": "591",
+            "pok_namefr": "Gaulet",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 592,
+            "pok_code": "592",
+            "pok_namefr": "Viskuse",
+            "pok_level_up": "40",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 593,
+            "pok_code": "593",
+            "pok_namefr": "Moyade",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 594,
+            "pok_code": "594",
+            "pok_namefr": "Mamanbo",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 595,
+            "pok_code": "595",
+            "pok_namefr": "Statitik",
+            "pok_level_up": "36",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 596,
+            "pok_code": "596",
+            "pok_namefr": "Mygavolt",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 597,
+            "pok_code": "597",
+            "pok_namefr": "Grindur",
+            "pok_level_up": "40",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 598,
+            "pok_code": "598",
+            "pok_namefr": "Noacier",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 599,
+            "pok_code": "599",
+            "pok_namefr": "Tic",
+            "pok_level_up": "38",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 600,
+            "pok_code": "600",
+            "pok_namefr": "Clic",
+            "pok_level_up": "49",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 601,
+            "pok_code": "601",
+            "pok_namefr": "Cliticlic",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 602,
+            "pok_code": "602",
+            "pok_namefr": "Anchwatt",
+            "pok_level_up": "39",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 603,
+            "pok_code": "603",
+            "pok_namefr": "Lampéroie",
+            "pok_level_up": "ts",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 604,
+            "pok_code": "604",
+            "pok_namefr": "Ohmassacre",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 605,
+            "pok_code": "605",
+            "pok_namefr": "Lewsor",
+            "pok_level_up": "42",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 606,
+            "pok_code": "606",
+            "pok_namefr": "Neitram",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 607,
+            "pok_code": "607",
+            "pok_namefr": "Funécire",
+            "pok_level_up": "41",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 608,
+            "pok_code": "608",
+            "pok_namefr": "Mélancolux",
+            "pok_level_up": "ds",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 609,
+            "pok_code": "609",
+            "pok_namefr": "Lugulabre",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 610,
+            "pok_code": "610",
+            "pok_namefr": "Coupenotte",
+            "pok_level_up": "38",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 611,
+            "pok_code": "611",
+            "pok_namefr": "Incisache",
+            "pok_level_up": "48",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 612,
+            "pok_code": "612",
+            "pok_namefr": "Tranchodon",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 613,
+            "pok_code": "613",
+            "pok_namefr": "Polarhume",
+            "pok_level_up": "37",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 614,
+            "pok_code": "614",
+            "pok_namefr": "Polagriffe",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 615,
+            "pok_code": "615",
+            "pok_namefr": "Hexagel",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 616,
+            "pok_code": "616",
+            "pok_namefr": "Escargaume",
+            "pok_level_up": "tr",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 617,
+            "pok_code": "617",
+            "pok_namefr": "Limaspeed",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 618,
+            "pok_code": "618",
+            "pok_namefr": "Limonde",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 619,
+            "pok_code": "619",
+            "pok_namefr": "Kungfouine",
+            "pok_level_up": "50",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 620,
+            "pok_code": "620",
+            "pok_namefr": "Shaofouine",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 621,
+            "pok_code": "621",
+            "pok_namefr": "Drakkarmin",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 622,
+            "pok_code": "622",
+            "pok_namefr": "Gringolem",
+            "pok_level_up": "43",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 623,
+            "pok_code": "623",
+            "pok_namefr": "Golemastoc",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 624,
+            "pok_code": "624",
+            "pok_namefr": "Scalpion",
+            "pok_level_up": "52",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 625,
+            "pok_code": "625",
+            "pok_namefr": "Scalproie",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 626,
+            "pok_code": "626",
+            "pok_namefr": "Frison",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 627,
+            "pok_code": "627",
+            "pok_namefr": "Furaiglon",
+            "pok_level_up": "54",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 628,
+            "pok_code": "628",
+            "pok_namefr": "Gueriaigle",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 629,
+            "pok_code": "629",
+            "pok_namefr": "Vostourno",
+            "pok_level_up": "54",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 630,
+            "pok_code": "630",
+            "pok_namefr": "Vaututrice",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 631,
+            "pok_code": "631",
+            "pok_namefr": "Aflamanoir",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 632,
+            "pok_code": "632",
+            "pok_namefr": "Fermite",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 633,
+            "pok_code": "633",
+            "pok_namefr": "Solochi",
+            "pok_level_up": "50",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 634,
+            "pok_code": "634",
+            "pok_namefr": "Diamat",
+            "pok_level_up": "64",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 635,
+            "pok_code": "635",
+            "pok_namefr": "Trioxhydre",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 636,
+            "pok_code": "636",
+            "pok_namefr": "Pyronille",
+            "pok_level_up": "59",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 637,
+            "pok_code": "637",
+            "pok_namefr": "Pyrax",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 638,
+            "pok_code": "638",
+            "pok_namefr": "Cobaltium",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 639,
+            "pok_code": "639",
+            "pok_namefr": "Terrakium",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 640,
+            "pok_code": "640",
+            "pok_namefr": "Viridium",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 641,
+            "pok_code": "641",
+            "pok_namefr": "Boréas",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 642,
+            "pok_code": "642",
+            "pok_namefr": "Fulguris",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 643,
+            "pok_code": "643",
+            "pok_namefr": "Reshiram",
+            "pok_level_up": "",
+            "pok_legal": 0,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 644,
+            "pok_code": "644",
+            "pok_namefr": "Zekrom",
+            "pok_level_up": "",
+            "pok_legal": 0,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 645,
+            "pok_code": "645",
+            "pok_namefr": "Démétéros",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 646,
+            "pok_code": "646",
+            "pok_namefr": "Kyurem",
+            "pok_level_up": "",
+            "pok_legal": 0,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 647,
+            "pok_code": "647",
+            "pok_namefr": "Keldeo",
+            "pok_level_up": "",
+            "pok_legal": 0,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 648,
+            "pok_code": "648",
+            "pok_namefr": "Meloetta",
+            "pok_level_up": "",
+            "pok_legal": 0,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 649,
+            "pok_code": "649",
+            "pok_namefr": "Genesect",
+            "pok_level_up": "",
+            "pok_legal": 0,
+            "pok_notpresent": 1
+        },
+        {
+            "pok_id": 650,
+            "pok_code": "650",
+            "pok_namefr": "Marisson",
+            "pok_level_up": "16",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 651,
+            "pok_code": "651",
+            "pok_namefr": "Boguérisse",
+            "pok_level_up": "36",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 652,
+            "pok_code": "652",
+            "pok_namefr": "Blindépique",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 653,
+            "pok_code": "653",
+            "pok_namefr": "Feunnec",
+            "pok_level_up": "16",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 654,
+            "pok_code": "654",
+            "pok_namefr": "Roussil",
+            "pok_level_up": "36",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 655,
+            "pok_code": "655",
+            "pok_namefr": "Goupelin",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 656,
+            "pok_code": "656",
+            "pok_namefr": "Grenousse",
+            "pok_level_up": "16",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 657,
+            "pok_code": "657",
+            "pok_namefr": "Croâporal",
+            "pok_level_up": "36",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 658,
+            "pok_code": "658",
+            "pok_namefr": "Amphinobi",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 659,
+            "pok_code": "659",
+            "pok_namefr": "Sapereau",
+            "pok_level_up": "20",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 660,
+            "pok_code": "660",
+            "pok_namefr": "Excavarenne",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 661,
+            "pok_code": "661",
+            "pok_namefr": "Passerouge",
+            "pok_level_up": "17",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 662,
+            "pok_code": "662",
+            "pok_namefr": "Braisillon",
+            "pok_level_up": "35",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 663,
+            "pok_code": "663",
+            "pok_namefr": "Flambusard",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 664,
+            "pok_code": "664",
+            "pok_namefr": "Lépidonille",
+            "pok_level_up": "9",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 665,
+            "pok_code": "665",
+            "pok_namefr": "Pérégrain",
+            "pok_level_up": "12",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 666,
+            "pok_code": "666",
+            "pok_namefr": "Prismillon",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 667,
+            "pok_code": "667",
+            "pok_namefr": "Hélionceau",
+            "pok_level_up": "35",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 668,
+            "pok_code": "668",
+            "pok_namefr": "Némélios",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 669,
+            "pok_code": "669",
+            "pok_namefr": "Flabébé",
+            "pok_level_up": "19",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 670,
+            "pok_code": "670",
+            "pok_namefr": "Floette",
+            "pok_level_up": "shs",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 671,
+            "pok_code": "671",
+            "pok_namefr": "Florges",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 672,
+            "pok_code": "672",
+            "pok_namefr": "Cabriolaine",
+            "pok_level_up": "32",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 673,
+            "pok_code": "673",
+            "pok_namefr": "Chevroum",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 674,
+            "pok_code": "674",
+            "pok_namefr": "Pandespiègle",
+            "pok_level_up": "32",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 675,
+            "pok_code": "675",
+            "pok_namefr": "Pandarbare",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 676,
+            "pok_code": "676",
+            "pok_namefr": "Couafarel",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 677,
+            "pok_code": "677",
+            "pok_namefr": "Psystigri",
+            "pok_level_up": "25",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 678,
+            "pok_code": "678",
+            "pok_namefr": "Mistigrix",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 679,
+            "pok_code": "679",
+            "pok_namefr": "Monorpale",
+            "pok_level_up": "35",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 680,
+            "pok_code": "680",
+            "pok_namefr": "Dimoclès",
+            "pok_level_up": "ds",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 681,
+            "pok_code": "681",
+            "pok_namefr": "Exagide",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 682,
+            "pok_code": "682",
+            "pok_namefr": "Fluvetin",
+            "pok_level_up": "tr",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 683,
+            "pok_code": "683",
+            "pok_namefr": "Cocotine",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 684,
+            "pok_code": "684",
+            "pok_namefr": "Sucroquin",
+            "pok_level_up": "tr",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 685,
+            "pok_code": "685",
+            "pok_namefr": "Cupcanaille",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 686,
+            "pok_code": "686",
+            "pok_namefr": "Sepiatop",
+            "pok_level_up": "30",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 687,
+            "pok_code": "687",
+            "pok_namefr": "Sepiatroce",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 688,
+            "pok_code": "688",
+            "pok_namefr": "Opermine",
+            "pok_level_up": "39",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 689,
+            "pok_code": "689",
+            "pok_namefr": "Golgopathe",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 690,
+            "pok_code": "690",
+            "pok_namefr": "Venalgue",
+            "pok_level_up": "48",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 691,
+            "pok_code": "691",
+            "pok_namefr": "Kravarech",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 692,
+            "pok_code": "692",
+            "pok_namefr": "Flingouste",
+            "pok_level_up": "37",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 693,
+            "pok_code": "693",
+            "pok_namefr": "Gamblast",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 694,
+            "pok_code": "694",
+            "pok_namefr": "Galvaran",
+            "pok_level_up": "ss",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 695,
+            "pok_code": "695",
+            "pok_namefr": "Iguolta",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 696,
+            "pok_code": "696",
+            "pok_namefr": "Ptyranidur",
+            "pok_level_up": "39",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 697,
+            "pok_code": "697",
+            "pok_namefr": "Rexillius",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 698,
+            "pok_code": "698",
+            "pok_namefr": "Amagara",
+            "pok_level_up": "39",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 699,
+            "pok_code": "699",
+            "pok_namefr": "Dragmara",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 700,
+            "pok_code": "700",
+            "pok_namefr": "Nymphali",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 701,
+            "pok_code": "701",
+            "pok_namefr": "Brutalibré",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 702,
+            "pok_code": "702",
+            "pok_namefr": "Dedenne",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 703,
+            "pok_code": "703",
+            "pok_namefr": "Strassie",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 704,
+            "pok_code": "704",
+            "pok_namefr": "Mucuscule",
+            "pok_level_up": "40",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 705,
+            "pok_code": "705",
+            "pok_namefr": "Colimucus",
+            "pok_level_up": "50",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 706,
+            "pok_code": "706",
+            "pok_namefr": "Muplodocus",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 707,
+            "pok_code": "707",
+            "pok_namefr": "Trousselin",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 708,
+            "pok_code": "708",
+            "pok_namefr": "Brocélome",
+            "pok_level_up": "tr",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 709,
+            "pok_code": "709",
+            "pok_namefr": "Desséliande",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 710,
+            "pok_code": "710",
+            "pok_namefr": "Pitrouille",
+            "pok_level_up": "tr",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 711,
+            "pok_code": "711",
+            "pok_namefr": "Banshitrouye",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 712,
+            "pok_code": "712",
+            "pok_namefr": "Grelaçon",
+            "pok_level_up": "37",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 713,
+            "pok_code": "713",
+            "pok_namefr": "Séracrawl",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 714,
+            "pok_code": "714",
+            "pok_namefr": "Sonistrelle",
+            "pok_level_up": "48",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 715,
+            "pok_code": "715",
+            "pok_namefr": "Bruyverne",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 716,
+            "pok_code": "716",
+            "pok_namefr": "Xerneas",
+            "pok_level_up": "",
+            "pok_legal": 0,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 717,
+            "pok_code": "717",
+            "pok_namefr": "Yveltal",
+            "pok_level_up": "",
+            "pok_legal": 0,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 718,
+            "pok_code": "718",
+            "pok_namefr": "Zygarde",
+            "pok_level_up": "",
+            "pok_legal": 0,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 719,
+            "pok_code": "719",
+            "pok_namefr": "Diancie",
+            "pok_level_up": "",
+            "pok_legal": 0,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 720,
+            "pok_code": "720",
+            "pok_namefr": "Hoopa",
+            "pok_level_up": "",
+            "pok_legal": 0,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 721,
+            "pok_code": "721",
+            "pok_namefr": "Volcanion",
+            "pok_level_up": "",
+            "pok_legal": 0,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 722,
+            "pok_code": "722",
+            "pok_namefr": "Brindibou",
+            "pok_level_up": "17",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 723,
+            "pok_code": "723",
+            "pok_namefr": "Efflèche",
+            "pok_level_up": "34",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 724,
+            "pok_code": "724",
+            "pok_namefr": "Archéduc",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 725,
+            "pok_code": "725",
+            "pok_namefr": "Flamiaou",
+            "pok_level_up": "17",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 726,
+            "pok_code": "726",
+            "pok_namefr": "Matoufeu",
+            "pok_level_up": "34",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 727,
+            "pok_code": "727",
+            "pok_namefr": "Félinferno",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 728,
+            "pok_code": "728",
+            "pok_namefr": "Otaquin",
+            "pok_level_up": "17",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 729,
+            "pok_code": "729",
+            "pok_namefr": "Otarlette",
+            "pok_level_up": "34",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 730,
+            "pok_code": "730",
+            "pok_namefr": "Oratoria",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 731,
+            "pok_code": "731",
+            "pok_namefr": "Picassaut",
+            "pok_level_up": "14",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 732,
+            "pok_code": "732",
+            "pok_namefr": "Piclairon",
+            "pok_level_up": "28",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 733,
+            "pok_code": "733",
+            "pok_namefr": "Bazoucan",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 734,
+            "pok_code": "734",
+            "pok_namefr": "Manglouton",
+            "pok_level_up": "20",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 735,
+            "pok_code": "735",
+            "pok_namefr": "Argouste",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 736,
+            "pok_code": "736",
+            "pok_namefr": "Larvibule",
+            "pok_level_up": "20",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 737,
+            "pok_code": "737",
+            "pok_namefr": "Chrysapile",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 738,
+            "pok_code": "738",
+            "pok_namefr": "Lucanon",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 739,
+            "pok_code": "739",
+            "pok_namefr": "Crabagarre",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 740,
+            "pok_code": "740",
+            "pok_namefr": "Crabominable",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 741,
+            "pok_code": "741",
+            "pok_namefr": "Plumeline",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 742,
+            "pok_code": "742",
+            "pok_namefr": "Bombydou",
+            "pok_level_up": "25",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 743,
+            "pok_code": "743",
+            "pok_namefr": "Rubombelle",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 744,
+            "pok_code": "744",
+            "pok_namefr": "Rocabot",
+            "pok_level_up": "25",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 745,
+            "pok_code": "745",
+            "pok_namefr": "Lougaroc",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 746,
+            "pok_code": "746",
+            "pok_namefr": "Froussardine",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 747,
+            "pok_code": "747",
+            "pok_namefr": "Vorastérie",
+            "pok_level_up": "38",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 748,
+            "pok_code": "748",
+            "pok_namefr": "Prédastérie",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 749,
+            "pok_code": "749",
+            "pok_namefr": "Tiboudet",
+            "pok_level_up": "30",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 750,
+            "pok_code": "750",
+            "pok_namefr": "Bourrinos",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 751,
+            "pok_code": "751",
+            "pok_namefr": "Araqua",
+            "pok_level_up": "22",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 752,
+            "pok_code": "752",
+            "pok_namefr": "Tarenbulle",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 753,
+            "pok_code": "753",
+            "pok_namefr": "Mimantis",
+            "pok_level_up": "34",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 754,
+            "pok_code": "754",
+            "pok_namefr": "Floramantis",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 755,
+            "pok_code": "755",
+            "pok_namefr": "Spododo",
+            "pok_level_up": "24",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 756,
+            "pok_code": "756",
+            "pok_namefr": "Lampignon",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 757,
+            "pok_code": "757",
+            "pok_namefr": "Tritox",
+            "pok_level_up": "33",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 758,
+            "pok_code": "758",
+            "pok_namefr": "Malamandre",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 759,
+            "pok_code": "759",
+            "pok_namefr": "Nounourson",
+            "pok_level_up": "27",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 760,
+            "pok_code": "760",
+            "pok_namefr": "Chelours",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 761,
+            "pok_code": "761",
+            "pok_namefr": "Croquine",
+            "pok_level_up": "18",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 762,
+            "pok_code": "762",
+            "pok_namefr": "Candine",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 763,
+            "pok_code": "763",
+            "pok_namefr": "Sucreine",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 764,
+            "pok_code": "764",
+            "pok_namefr": "Guérilande",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 765,
+            "pok_code": "765",
+            "pok_namefr": "Gouroutan",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 766,
+            "pok_code": "766",
+            "pok_namefr": "Quartermac",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 767,
+            "pok_code": "767",
+            "pok_namefr": "Sovkipou",
+            "pok_level_up": "30",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 768,
+            "pok_code": "768",
+            "pok_namefr": "Sarmuraï",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 769,
+            "pok_code": "769",
+            "pok_namefr": "Bacabouh",
+            "pok_level_up": "42",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 770,
+            "pok_code": "770",
+            "pok_namefr": "Trépassable",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 771,
+            "pok_code": "771",
+            "pok_namefr": "Concombaffe",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 772,
+            "pok_code": "772",
+            "pok_namefr": "Type:0",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 773,
+            "pok_code": "773",
+            "pok_namefr": "Silvallié",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 774,
+            "pok_code": "774",
+            "pok_namefr": "Météno",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 775,
+            "pok_code": "775",
+            "pok_namefr": "Dodoala",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 776,
+            "pok_code": "776",
+            "pok_namefr": "Boumata",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 777,
+            "pok_code": "777",
+            "pok_namefr": "Togedemaru",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 778,
+            "pok_code": "778",
+            "pok_namefr": "Mimiqui",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 779,
+            "pok_code": "779",
+            "pok_namefr": "Denticrisse",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 780,
+            "pok_code": "780",
+            "pok_namefr": "Draïeul",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 781,
+            "pok_code": "781",
+            "pok_namefr": "Sinistrail",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 782,
+            "pok_code": "782",
+            "pok_namefr": "Bébécaille",
+            "pok_level_up": "35",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 783,
+            "pok_code": "783",
+            "pok_namefr": "Écaïd",
+            "pok_level_up": "45",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 784,
+            "pok_code": "784",
+            "pok_namefr": "Ékaïser",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 785,
+            "pok_code": "785",
+            "pok_namefr": "Tokorico",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 786,
+            "pok_code": "786",
+            "pok_namefr": "Tokopiyon",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 787,
+            "pok_code": "787",
+            "pok_namefr": "Tokotoro",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 788,
+            "pok_code": "788",
+            "pok_namefr": "Tokopisco",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 789,
+            "pok_code": "789",
+            "pok_namefr": "Cosmog",
+            "pok_level_up": "43",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 790,
+            "pok_code": "790",
+            "pok_namefr": "Cosmovum",
+            "pok_level_up": "53",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 791,
+            "pok_code": "791",
+            "pok_namefr": "Solgaleo",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 792,
+            "pok_code": "792",
+            "pok_namefr": "Lunala",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 793,
+            "pok_code": "793",
+            "pok_namefr": "Zéroïd",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 794,
+            "pok_code": "794",
+            "pok_namefr": "Mouscoto",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 795,
+            "pok_code": "795",
+            "pok_namefr": "Cancrelove",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 796,
+            "pok_code": "796",
+            "pok_namefr": "Câblifère",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 797,
+            "pok_code": "797",
+            "pok_namefr": "Bamboiselle",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 798,
+            "pok_code": "798",
+            "pok_namefr": "Katagami",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 799,
+            "pok_code": "799",
+            "pok_namefr": "Engloutyran",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 800,
+            "pok_code": "800",
+            "pok_namefr": "Necrozma",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 801,
+            "pok_code": "801",
+            "pok_namefr": "Magearna",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        },
+        {
+            "pok_id": 802,
+            "pok_code": "802",
+            "pok_namefr": "Marshadow",
+            "pok_level_up": "",
+            "pok_legal": 1,
+            "pok_notpresent": 0
+        }
+    ]
+}

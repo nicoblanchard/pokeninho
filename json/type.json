@@ -1,0 +1,76 @@
+{
+    "types": [
+        {
+            "id_type": "Acier",
+            "type_name": 1
+        },
+        {
+            "id_type": "Combat",
+            "type_name": 2
+        },
+        {
+            "id_type": "Dragon",
+            "type_name": 3
+        },
+        {
+            "id_type": "Eau",
+            "type_name": 4
+        },
+        {
+            "id_type": "Electr",
+            "type_name": 5
+        },
+        {
+            "id_type": "Feu",
+            "type_name": 6
+        },
+        {
+            "id_type": "Glace",
+            "type_name": 7
+        },
+        {
+            "id_type": "Insect",
+            "type_name": 8
+        },
+        {
+            "id_type": "Normal",
+            "type_name": 9
+        },
+        {
+            "id_type": "Plante",
+            "type_name": 10
+        },
+        {
+            "id_type": "Poison",
+            "type_name": 11
+        },
+        {
+            "id_type": "Psy",
+            "type_name": 12
+        },
+        {
+            "id_type": "Roche",
+            "type_name": 13
+        },
+        {
+            "id_type": "Sol",
+            "type_name": 14
+        },
+        {
+            "id_type": "Spectr",
+            "type_name": 15
+        },
+        {
+            "id_type": "Tenebr",
+            "type_name": 16
+        },
+        {
+            "id_type": "Vol",
+            "type_name": 17
+        },
+        {
+            "id_type": "Fée",
+            "type_name": 18
+        }
+    ]
+}
