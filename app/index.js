@@ -71,7 +71,7 @@ pokeList.controller('listPokemon',
         };
         // Recupérer les données de l'API
 
-        $http.get("json/PokeListFr.json")
+        $http.get("data/PokeListFr.json")
         // $http.get("http://pokeapi.co/api/v2/pokemon/?limit=811")
             .then(function (response) {
                 $scope.pokemons = response.data.results;
@@ -143,8 +143,7 @@ pokeList.controller('detailsPok',
             return (url.substring(30, url.length - 1));
         };
         var id = pokeGetInfos.getpokId();
-        // $http.get("http://www.pisse-froid.com/wp-content/uploads/2016/11/pokeDetails.json")
-        $http.get("json/details.json")
+        $http.get("data/details.json")
         //console.log("http://pokeapi.co/api/v2/pokemon/"+id);
         // $http.get("http://pokeapi.co/api/v2/pokemon/",{params:{"param1": id+"/"}})
         // {params:{"param1": val1, "param2": val2}}
