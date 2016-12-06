@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Acier"
+  },
+  {
+    "id": 2,
+    "name": "Combat"
+  },
+  {
+    "id": 3,
+    "name": "Dragon"
+  },
+  {
+    "id": 4,
+    "name": "Eau"
+  },
+  {
+    "id": 5,
+    "name": "Electr"
+  },
+  {
+    "id": 6,
+    "name": "Feu"
+  },
+  {
+    "id": 7,
+    "name": "Glace"
+  },
+  {
+    "id": 8,
+    "name": "Insect"
+  },
+  {
+    "id": 9,
+    "name": "Normal"
+  },
+  {
+    "id": 10,
+    "name": "Plante"
+  },
+  {
+    "id": 11,
+    "name": "Poison"
+  },
+  {
+    "id": 12,
+    "name": "Psy"
+  },
+  {
+    "id": 13,
+    "name": "Roche"
+  },
+  {
+    "id": 14,
+    "name": "Sol"
+  },
+  {
+    "id": 15,
+    "name": "Spectr"
+  },
+  {
+    "id": 16,
+    "name": "Tenebr"
+  },
+  {
+    "id": 17,
+    "name": "Vol"
+  },
+  {
+    "id": 18,
+    "name": "Fée"
+  }
+]
