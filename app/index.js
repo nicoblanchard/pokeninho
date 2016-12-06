@@ -74,7 +74,7 @@ pokeList.controller('listPokemon',
         $http.get("data/PokeListFr.json")
         // $http.get("http://pokeapi.co/api/v2/pokemon/?limit=811")
             .then(function (response) {
-                $scope.pokemons = response.data.results;
+                $scope.pokemons = response.data;
             });
     }
 );
@@ -149,7 +149,7 @@ pokeList.controller('detailsPok',
         // {params:{"param1": val1, "param2": val2}}
         //
             .then(function (response) {
-                //$scope.pokemonDetails = response.data.results;
+                //$scope.pokemonDetails = response.data;
                 $scope.pokemonStats = response.data.stats;
                 $scope.nameEnu = response.data.name;
                 $scope.url = response.data.sprites.front_default;

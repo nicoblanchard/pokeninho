@@ -13,10 +13,10 @@
 <!-- Liste complète du pokemon -->
 <section>
     <div id="pokeList" ng-controller="listPokemon">
-        <div id="{{pokemon.pok_id}}" ng-repeat="pokemon in pokemons" class="ct gh">
-            <div details ng-style="{'background-position': getSpriteStyle(pokemon.pok_id)}"
-                 ng-class="getCorrectBackgroundImage(pokemon.pok_id)" ng-click="setpokId(pokemon.pok_id);"></div>
-            <div class="bottom">{{pokemon.pok_code}} {{pokemon.pok_namefr}}</div>
+        <div id="{{pokemon.id}}" ng-repeat="pokemon in pokemons" class="ct gh">
+            <div details ng-style="{'background-position': getSpriteStyle(pokemon.id)}"
+                 ng-class="getCorrectBackgroundImage(pokemon.id)" ng-click="setpokId(pokemon.id);"></div>
+            <div class="bottom">{{pokemon.code}} {{pokemon.namefr}}</div>
 
             <!--<div>{{pokemon.LvlUp}}</div>-->
         </div>
@@ -31,7 +31,7 @@
             <a href="javascript:closePokemonDetailsDiv();">
                 <img src="img/close.png" alt="Quitter">
             </a>
-            <a ng-href="http://www.serebii.net/pokedex-sm/{{pokemonDetails.pok_id}}.shtml" target="_blank">
+            <a ng-href="http://www.serebii.net/pokedex-sm/{{pokemonDetails.id}}.shtml" target="_blank">
                 <img src="img/serebii.png" alt="Fiche serebii">
             </a>
             <a href="http://www.pokebip.com/pokemon/pokedex/index.php?phppage=recherche&amp;submit=Go+!&amp;req=%23746"
