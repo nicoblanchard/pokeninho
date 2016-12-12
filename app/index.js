@@ -61,7 +61,7 @@ pokeList.controller('listPokemon',
             // $http.get("data/details"+id+".json")
                  
 
-            $http.get("http://pokeapi.co/api/v2/pokemon/"+id+"/")
+            $http.get("https://pokeapi.co/api/v2/pokemon/"+id+"/")
 
                 // called asynchronously if an error occurs or server returns response with an error status
                .then(function (response) {
