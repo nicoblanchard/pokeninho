@@ -8,7 +8,7 @@
 <body>
 <div id="pokemonDetailsDiv" ng-controller="detailsPok">
     <!-- 		<div id="pokemonDetailsDiv" ng-controller="detailsPok">-->
-    <div class="detailsMenu">
+<!--     <div class="detailsMenu">
         <a href="javascript:closePokemonDetailsDiv();">
             <img src="img/close.png" alt="Quitter">
         </a>
@@ -19,7 +19,7 @@
            target="_blank">
             <img src="img/pokebip.png" alt="Fiche pokebip">
         </a>
-    </div>
+    </div> -->
 
     <div style="float:left;height:96px;width:96px;">
         <img ng-src="{{url}}"/>
@@ -38,7 +38,7 @@
             </tbody>
         </table>
     </div>
-
+<!-- 
     <div>
         <table id="pokemonStatsDiv">
             <tbody>
@@ -59,11 +59,19 @@
             </tr>
             </tbody>
         </table>
-    </div>
+    </div> -->
 </div>
 
 <script src="bower_components/angular/angular.min.js"></script>
 <script src="index.js"></script>
-
+<script type="text/javascript">
+    /*globals $, location*/
+    function closePokemonDetailsDiv() {
+        document.getElementById("pokemonDetailsDiv").style.display = "none";
+    }
+    function showDiv() {
+        document.getElementById("pokemonDetailsDiv").style.display = "block";
+    }
+</script>
 </body>
 </html>

@@ -7,45 +7,43 @@
 </head>
 <body>
 <header>
-    <h1 class="test"></h1>
+    
 </header>
-
 <!-- Liste complète du pokemon -->
-<section>
-    <div id="pokeList" ng-controller="listPokemon">
-        <div id="{{pokemon.id}}" ng-repeat="pokemon in pokemons" class="ct gh">
-            <div details ng-style="{'background-position': getSpriteStyle(pokemon.id)}"
-                 ng-class="getCorrectBackgroundImage(pokemon.id)" ng-click="setpokId(pokemon.id);"></div>
+<div ng-controller="listPokemon">
+    <div id="pokeList" >
+        <div id="{{pokemon.id}}" ng-repeat="pokemon in pokemons" class="ct gh" ng-click="showDiv(pokemon.id, pokemon.namefr, pokemon.code);params=1">
+            <div details ng-style="{'background-position': getSpriteStyle(pokemon.id)}" ng-class="getCorrectBackgroundImage(pokemon.id)" ></div>
             <div class="bottom">{{pokemon.code}} {{pokemon.namefr}}</div>
 
             <!--<div>{{pokemon.LvlUp}}</div>-->
         </div>
     </div>
-</section>
+
 
 <!-- Détails du pokémon sélectionné -->
-<section>
-    <div id="pokemonDetailsDiv" ng-controller="detailsPok" style="display:none">
+    <div id="pokemonDetailsDiv" ng-controller="detailsPok" ng-show="params">
         <!-- 		<div id="pokemonDetailsDiv" ng-controller="detailsPok">-->
-        <div class="detailsMenu">
-            <a href="javascript:closePokemonDetailsDiv();">
+        <div class="detailsMenu" >
+            <a href="" >
                 <img src="img/close.png" alt="Quitter">
             </a>
-            <a ng-href="http://www.serebii.net/pokedex-sm/{{pokemonDetails.id}}.shtml" target="_blank">
+            <a ng-href="http://www.serebii.net/pokedex-sm/{{strId}}.shtml" target="_blank">
                 <img src="img/serebii.png" alt="Fiche serebii">
             </a>
-            <a href="http://www.pokebip.com/pokemon/pokedex/index.php?phppage=recherche&amp;submit=Go+!&amp;req=%23746"
+            <a href="http://www.pokebip.com/pokemon/pokedex/index.php?phppage=recherche&amp;submit=Go+!&amp;req=%23{{strId}}"
                target="_blank">
                 <img src="img/pokebip.png" alt="Fiche pokebip">
             </a>
         </div>
-
-        <div style="float:left;height:96px;width:96px;">
+         <div style="float:left;height:96px;width:96px;">
             <img ng-src="{{url}}"/>
         </div>
 
         <div style="float:left;height:96px;width:200px;">
-            <span style="font-size:18px;font-weight:bold;">{{nameEnu}}</span>
+            <span style="font-size:18px;font-weight:bold;">#{{strId}} {{nameFra}}</span>
+            <br>
+            {{nameEnu}}
             <table>
                 <tbody>
                 <tr>
@@ -57,41 +55,31 @@
                 </tbody>
             </table>
         </div>
-
-        <div>
-            <table id="pokemonStatsDiv">
-                <tbody>
-                <tr>
-                    <th>PV</th>
-                    <th>Atq</th>
-                    <th>Def</th>
-                    <th>Atq spé</th>
-                    <th>Def Spé</th>
-                    <th>Vit</th>
-                    <th>Total</th>
-                </tr>
-                <tr>
-                    <td ng-repeat="pokemonStat in pokemonStats">
-                        {{pokemonStat.base_stat}}
-                    </td>
-                    <td>Total</td>
-                </tr>
-                </tbody>
-            </table>
-        </div>
+ 
+    <div>
+        <table id="pokemonStatsDiv">
+            <tbody>
+            <tr>
+                <th>PV</th>
+                <th>Atq</th>
+                <th>Def</th>
+                <th>Atq spé</th>
+                <th>Def Spé</th>
+                <th>Vit</th>
+                <th>Total</th>
+            </tr>
+            <tr>
+                <td ng-repeat="pokemonStat in pokemonStats">
+                    {{pokemonStat.base_stat}}
+                </td>
+                <td>Total</td>
+            </tr>
+            </tbody>
+        </table>
     </div>
-</section>
+</div>
 
 <script src="bower_components/angular/angular.min.js"></script>
 <script src="index.js"></script>
-<script type="text/javascript">
-    /*globals $, location*/
-    function closePokemonDetailsDiv() {
-        document.getElementById("pokemonDetailsDiv").style.display = "none";
-    }
-    function showDiv() {
-        document.getElementById("pokemonDetailsDiv").style.display = "block";
-    }
-</script>
 </body>
 </html>

@@ -2,25 +2,9 @@
 
 var pokeList = angular.module('pokeninho', []);
 
-pokeList.service('pokeGetInfos', function () {
-    var idPok, pokeNome;
-
-    this.getpokId = function () {
-        return this.idPok;
-    };
-    this.setpokId = function (x) {
-        this.idPok = x
-    };
-    this.getpokName = function () {
-        return this.pokName;
-    };
-    this.setpokName = function (x) {
-        this.pokeName = x
-    }
-});
 
 pokeList.controller('listPokemon',
-    function ($scope, $http, pokeGetInfos) {
+    function ($scope, $http) {
         // Bouger le background-position pour avoir le bon pokemon
         $scope.getSpriteStyle = function (id) {
             var x = 0;
@@ -61,6 +45,7 @@ pokeList.controller('listPokemon',
             return (x) + 'px  ' + (y) + 'px';
         };
 
+
         $scope.getCorrectBackgroundImage = function (id) {
             if (id < 650)
                 return "top";
@@ -70,18 +55,48 @@ pokeList.controller('listPokemon',
                 return "topsm";
         };
         // Recupérer les données de l'API
+        $scope.params=0;
+        
+        $scope.showDiv = function (id, nameFr, strId) {
+            // $http.get("data/details"+id+".json")
+                 
+
+            $http.get("http://pokeapi.co/api/v2/pokemon/"+id+"/")
+
+                // called asynchronously if an error occurs or server returns response with an error status
+               .then(function (response) {
+                    $scope.pokemonDetails = response.data;
+                    $scope.pokemonStats = response.data.stats;
+                    $scope.nameEnu = response.data.name;              
+                    $scope.url = response.data.sprites.front_default;
+                    $scope.pokTypes = response.data.types;
+                    $scope.id=response.data.id;
+                    $scope.nameFra=nameFr;
+                    $scope.strId=strId;
+                    $scope.params=1;
+                });
+            return 1;             
+        };
+
 
         $http.get("data/PokeListFr.json")
-        // $http.get("http://pokeapi.co/api/v2/pokemon/?limit=811")
+ 
             .then(function (response) {
+
                 $scope.pokemons = response.data;
             });
     }
 );
 
 pokeList.controller('detailsPok',
-    function ($scope, $http, pokeGetInfos) {
-        $scope.getType = function (type) {
+    function ($scope, $http) {
+  
+        var id;
+        $scope.getTypeId = function (url) {
+            return (url.substring(30, url.length - 1));
+        };
+
+      $scope.getType = function (type) {
             var val;
             switch (type) {
                 case "flying":
@@ -138,25 +153,6 @@ pokeList.controller('detailsPok',
             }
             return val;
         };
-
-        $scope.getTypeId = function (url) {
-            return (url.substring(30, url.length - 1));
-        };
-        var id = pokeGetInfos.getpokId();
-        $http.get("data/details.json")
-        //console.log("http://pokeapi.co/api/v2/pokemon/"+id);
-        // $http.get("http://pokeapi.co/api/v2/pokemon/",{params:{"param1": id+"/"}})
-        // {params:{"param1": val1, "param2": val2}}
-        //
-            .then(function (response) {
-                //$scope.pokemonDetails = response.data;
-                $scope.pokemonStats = response.data.stats;
-                $scope.nameEnu = response.data.name;
-                $scope.url = response.data.sprites.front_default;
-                $scope.pokTypes = response.data.types;
-
-            });
-        //}
     }
 );
 
