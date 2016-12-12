@@ -93,7 +93,7 @@ pokeList.controller('detailsPok',
   
         var id;
         $scope.getTypeId = function (url) {
-            return (url.substring(30, url.length - 1));
+            return (url.substring(31, url.length - 1));
         };
 
       $scope.getType = function (type) {
