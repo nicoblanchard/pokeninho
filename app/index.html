@@ -6,76 +6,111 @@
     <link rel="stylesheet" type="text/css" href="index.css">
 </head>
 <body>
-<header>
-    
-</header>
-<!-- Liste complète du pokemon -->
-<div ng-controller="listPokemon">
-    <div id="pokeList" >
-        <div id="{{pokemon.id}}" ng-repeat="pokemon in pokemons" class="ct gh" ng-click="showDiv(pokemon.id, pokemon.namefr, pokemon.code);params=1">
-            <div details ng-style="{'background-position': getSpriteStyle(pokemon.id)}" ng-class="getCorrectBackgroundImage(pokemon.id)" ></div>
-            <div class="bottom">{{pokemon.code}} {{pokemon.namefr}}</div>
+    <header>
+        <img src="img/titlebar.png" alt="" style="cursor:pointer;">
+    </header>
+    <!-- Liste complète du pokemon -->
+    <div ng-controller="listPokemon">
+        <div id="pokeList" >
+            <div id="{{pokemon.id}}" ng-repeat="pokemon in pokemons" class="ct gh" ng-click="showDiv(pokemon.id, pokemon.namefr, pokemon.code);">
+                <div details ng-style="{'background-position': getSpriteStyle(pokemon.id)}" ng-class="getCorrectBackgroundImage(pokemon.id)" ></div>
+                <div class="bottom">{{pokemon.code}} {{pokemon.namefr}}</div>
 
-            <!--<div>{{pokemon.LvlUp}}</div>-->
+                <!--<div>{{pokemon.LvlUp}}</div>-->
+            </div>
         </div>
-    </div>
 
 
-<!-- Détails du pokémon sélectionné -->
-    <div id="pokemonDetailsDiv" ng-controller="detailsPok" ng-show="params">
-        <!-- 		<div id="pokemonDetailsDiv" ng-controller="detailsPok">-->
-        <div class="detailsMenu" >
-            <a href="" >
-                <img src="img/close.png" alt="Quitter">
-            </a>
-            <a ng-href="http://www.serebii.net/pokedex-sm/{{strId}}.shtml" target="_blank">
-                <img src="img/serebii.png" alt="Fiche serebii">
-            </a>
-            <a href="http://www.pokebip.com/pokemon/pokedex/index.php?phppage=recherche&amp;submit=Go+!&amp;req=%23{{strId}}"
-               target="_blank">
+        <!-- Détails du pokémon sélectionné -->
+        <div id="pokemonDetailsDiv"  ng-show="params" >
+            <!-- 		<div id="pokemonDetailsDiv" ng-controller="detailsPok">-->
+            <div class="detailsMenu" >
+                <a href="" ng-click="params=0">
+                    <img src="img/close.png" alt="Quitter">
+                </a>
+                <a ng-href="http://www.serebii.net/pokedex-sm/{{strId}}.shtml" target="_blank">
+                    <img src="img/serebii.png" alt="Fiche serebii">
+                </a>
+                <a href="http://www.pokebip.com/pokemon/pokedex/index.php?phppage=recherche&amp;submit=Go+!&amp;req=%23{{strId}}"
+                target="_blank">
                 <img src="img/pokebip.png" alt="Fiche pokebip">
             </a>
         </div>
-         <div style="float:left;height:96px;width:96px;">
+        <div style="float:left;height:96px;width:96px;">
             <img ng-src="{{url}}"/>
         </div>
 
-        <div style="float:left;height:96px;width:200px;">
+        <div style="float:left;height:96px;width:200px" >
             <span style="font-size:18px;font-weight:bold;">#{{strId}} {{nameFra}}</span>
             <br>
             {{nameEnu}}
             <table>
                 <tbody>
-                <tr>
-                    <td ng-repeat="typePok in pokTypes" style="margin-left:40px;" ng-attr-id="type{{$index+1}}"
-                        class="type type{{getTypeId(typePok.type.url)}}">
-                        {{getType(typePok.type.name)}}
+                    <tr>
+                        <td ng-repeat="typePok in pokTypes" style="margin-left:40px;" ng-attr-id="type{{$index+1}}" class="type type{{(getType(typePok.type.name).id)}}" ng-init="getTableType(getType(typePok.type.name).id);" >
+                        {{getType(typePok.type.name).val}} 
                     </td>
                 </tr>
-                </tbody>
-            </table>
-        </div>
- 
-    <div>
-        <table id="pokemonStatsDiv">
-            <tbody>
-            <tr>
-                <th>PV</th>
-                <th>Atq</th>
-                <th>Def</th>
-                <th>Atq spé</th>
-                <th>Def Spé</th>
-                <th>Vit</th>
-                <th>Total</th>
-            </tr>
-            <tr>
-                <td ng-repeat="pokemonStat in pokemonStats">
-                    {{pokemonStat.base_stat}}
-                </td>
-                <td>Total</td>
-            </tr>
             </tbody>
         </table>
+    </div>
+    <div>
+        <table class="tableWeakness">
+            <tr>
+                <th><img src="img/types/1.gif" alt="Acier"/></th>
+                <th><img src="img/types/2.gif" alt="Combat"/></th>
+                <th><img src="img/types/3.gif" alt="Dragon"/></th>
+                <th><img src="img/types/4.gif" alt="Eau"/></th>
+                <th><img src="img/types/5.gif" alt="Electr"/></th>
+                <th><img src="img/types/6.gif" alt="Feu"/></th>
+                <th><img src="img/types/7.gif" alt="Glace"/></th>
+                <th><img src="img/types/8.gif" alt="Insecte"/></th>
+                <th><img src="img/types/9.gif" alt="Normal"/></th>
+            </tr>
+            <tr>
+                <td ng-repeat="weak in weakness | limitTo :9 : 1 track by $index " class="bgColorWeakness{{(supprDotClass(weak))}}">x{{weak}}</td>
+            </tr>
+        </table>    
+        <table class="tableWeakness">
+            <tr>    
+                <th><img src="img/types/10.gif" alt="Plante"/></th>
+                <th><img src="img/types/11.gif" alt="Poison"/></th>
+                <th><img src="img/types/12.gif" alt="Psy"/></th>
+                <th><img src="img/types/13.gif" alt="Roche"/></th>
+                <th><img src="img/types/14.gif" alt="Sol"/></th>
+                <th><img src="img/types/15.gif" alt="Spectre"/></th>
+                <th><img src="img/types/16.gif" alt="Ténèbres"/></th>
+                <th><img src="img/types/17.gif" alt="Vol"/></th>
+                <th><img src="img/types/18.gif" alt="Fée"/></th>
+            </tr>
+            <tr>
+                <td ng-repeat="weak in weakness | limitTo : 9 : 10  track by $index " class=" bgColorWeakness{{(supprDotClass(weak))}}">x{{weak}} </td>
+            </tr>
+        </table>
+    </div>
+    <br>
+    <div>
+        <table id="pokemonStatsDiv" cellpadding="0" cellspacing="0" width="100%">
+  
+            <tbody>
+                <tr>
+                    <th>PV</th>
+                    <th>Atq</th>
+                    <th>Def</th>
+                    <th>Atq spé</th>
+                    <th>Def Spé</th>
+                    <th>Vit</th>
+                    <th>Total</th>
+                </tr>
+                <tr>
+                    <td ng-repeat="pokemonStat in pokemonStats" ng-init="$parent.total = $parent.total + pokemonStat.base_stat">
+                        {{pokemonStat.base_stat}}
+                    </td>
+                    <td>{{total}}</td>
+                </tr>
+            </tbody>
+        </table>
+        <br>
     </div>
 </div>
 
